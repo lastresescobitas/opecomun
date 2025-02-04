@@ -1,0 +1,3020 @@
+{
+    "Temario comun_pregunta1": {
+        "pregunta": "De acuerdo con lo establecido en la Constitución Española, España se constituye en:",
+        "opciones": {
+            "A": "Un estado liberal y democrático de derecho",
+            "B": "Un estado pluralista y democrático de derecho",
+            "C": "Un estado social y democrático de derecho",
+            "D": "Un estado libre, unido y democrático",
+            "E": "Un estado democrático de derecho"
+        },
+        "respuesta_correcta": "C"
+    },
+    "Temario comun_pregunta2": {
+        "pregunta": "La Constitución Española de 1978 entró en vigor el día:",
+        "opciones": {
+            "A": "27 de diciembre de 1978",
+            "B": "28 de diciembre de 1978",
+            "C": "29 de diciembre de 1978",
+            "D": "30 de diciembre de 1978",
+            "E": "1 de enero de 1979"
+        },
+        "respuesta_correcta": "C"
+    },
+    "Temario comun_pregunta3": {
+        "pregunta": "La forma política del Estado español es la:",
+        "opciones": {
+            "A": "Monarquía soberana",
+            "B": "Monarquía parlamentaria",
+            "C": "Monarquía democrática",
+            "D": "Monarquía dinástica",
+            "E": "Monarquía borbónica"
+        },
+        "respuesta_correcta": "B"
+    },
+    "Temario comun_pregunta4": {
+        "pregunta": "La Constitución Española reconoce el derecho a la autonomía de:",
+        "opciones": {
+            "A": "Nacionalidades históricas y autonomías",
+            "B": "Municipios y regiones",
+            "C": "Autonomías y regiones",
+            "D": "Provincias y regiones",
+            "E": "Nacionalidades y regiones"
+        },
+        "respuesta_correcta": "E"
+    },
+    "Temario comun_pregunta5": {
+        "pregunta": "¿Cuál de estos principios no garantiza la Constitución Española?",
+        "opciones": {
+            "A": "Principio de indemnización",
+            "B": "Principio de legalidad",
+            "C": "Principio de seguridad jurídica",
+            "D": "Principio de jerarquía normativa",
+            "E": "Principio de publicidad de las normas"
+        },
+        "respuesta_correcta": "A"
+    },
+    "Temario comun_pregunta6": {
+        "pregunta": "La nacionalidad española se puede perder:",
+        "opciones": {
+            "A": "Por sentencia firme del Tribunal Constitucional",
+            "B": "Por acuerdo del Consejo de Ministros",
+            "C": "Por orden gubernativa",
+            "D": "Por edicto publicado en el Boletín Oficial del Estado",
+            "E": "En ninguno de los casos"
+        },
+        "respuesta_correcta": "E"
+    },
+    "Temario comun_pregunta7": {
+        "pregunta": "La mayoría de edad se adquiere a los:",
+        "opciones": {
+            "A": "Al emanciparse",
+            "B": "16 años",
+            "C": "18 años y 21 años los incapacitados",
+            "D": "18 años",
+            "E": "21 años"
+        },
+        "respuesta_correcta": "D"
+    },
+    "Temario comun_pregunta8": {
+        "pregunta": "El derecho a la intimidad es un derecho que tiene la consideración de:",
+        "opciones": {
+            "A": "Derecho ordinario",
+            "B": "Derecho relativo",
+            "C": "Derecho natural",
+            "D": "Derecho positivo",
+            "E": "Derecho fundamental"
+        },
+        "respuesta_correcta": "E"
+    },
+    "Temario comun_pregunta9": {
+        "pregunta": "La Constitución Española garantiza el derecho de los extranjeros al sufragio universal, en las siguientes circunstancias:",
+        "opciones": {
+            "A": "No se le reconoce ese derecho",
+            "B": "En las elecciones municipales",
+            "C": "En las elecciones al Parlamento Europeo",
+            "D": "Cuando superen los tres años de residencia en España",
+            "E": "En las elecciones autonómicas"
+        },
+        "respuesta_correcta": "B"
+    },
+    "Temario comun_pregunta10": {
+        "pregunta": "El principio de igualdad viene recogido en la Constitución Española en el artículo:",
+        "opciones": {
+            "A": "12",
+            "B": "13",
+            "C": "14",
+            "D": "15",
+            "E": "11"
+        },
+        "respuesta_correcta": "C"
+    },
+    "Temario comun_pregunta11": {
+        "pregunta": "Al detenido le asiste el derecho:",
+        "opciones": {
+            "A": "A declarar contra sí mismo",
+            "B": "A ser reconocido por un médico de la Seguridad Social",
+            "C": "A ser reconocido por el médico forense",
+            "D": "A no ser informado de los hechos que se le imputan",
+            "E": "A ser asistido por un procurador que le represente"
+        },
+        "respuesta_correcta": "C"
+    },
+    "Temario comun_pregunta12": {
+        "pregunta": "El derecho a la salud está recogido en la Constitución en el artículo:",
+        "opciones": {
+            "A": "41",
+            "B": "42",
+            "C": "45",
+            "D": "44",
+            "E": "43"
+        },
+        "respuesta_correcta": "E"
+    },
+    "Temario comun_pregunta13": {
+        "pregunta": "Los derechos fundamentales y libertades públicas han de ser desarrollados por:",
+        "opciones": {
+            "A": "Ley especial",
+            "B": "Ley de bases",
+            "C": "Ley ordinaria",
+            "D": "Decreto Ley",
+            "E": "Ley orgánica"
+        },
+        "respuesta_correcta": "E"
+    },
+    "Temario comun_pregunta14": {
+        "pregunta": "Un mecanismo de garantía de las libertades y derechos de los ciudadanos es la vía extrajudicial. ¿Cuál de las siguientes instituciones no pertenece a este mecanismo de garantía?",
+        "opciones": {
+            "A": "El Ministerio Fiscal",
+            "B": "Fuerzas de Seguridad del Estado",
+            "C": "Cuerpos de Seguridad del Estado",
+            "D": "Las Cortes Generales",
+            "E": "El Defensor del Pueblo"
+        },
+        "respuesta_correcta": "D"
+    },
+    "Temario comun_pregunta15": {
+        "pregunta": "¿En cuál de estos estados se pueden suspender temporalmente los derechos?",
+        "opciones": {
+            "A": "Excepción",
+            "B": "Prebélico",
+            "C": "Electoral",
+            "D": "Institucional",
+            "E": "Bélico"
+        },
+        "respuesta_correcta": "A"
+    },
+    "Temario comun_pregunta16": {
+        "pregunta": "El siguiente derecho individual no se puede suspender temporalmente:",
+        "opciones": {
+            "A": "Duración máxima de 72 horas de la detención preventiva",
+            "B": "Derecho de reunión",
+            "C": "Derecho a la intimidad",
+            "D": "Inviolabilidad del domicilio",
+            "E": "Secreto de las comunicaciones"
+        },
+        "respuesta_correcta": "C"
+    },
+    "Temario comun_pregunta17": {
+        "pregunta": "El derecho a la salud lo contempla la Constitución Española como:",
+        "opciones": {
+            "A": "Derecho fundamental",
+            "B": "Derecho natural",
+            "C": "Derecho autonómico",
+            "D": "Como un principio rector de la política social y económica",
+            "E": "Derecho positivo"
+        },
+        "respuesta_correcta": "D"
+    },
+    "Temario comun_pregunta18": {
+        "pregunta": "La Constitución Española contempla el derecho a la salud de los trabajadores:",
+        "opciones": {
+            "A": "Incluido dentro del derecho a la salud del artículo 43",
+            "B": "Incluido dentro del derecho a la salud del artículo 45",
+            "C": "Con un artículo propio (artículo 40)",
+            "D": "Con un artículo propio (artículo 50)",
+            "E": "No aparece nombrado de forma explícita"
+        },
+        "respuesta_correcta": "C"
+    },
+    "Temario comun_pregunta19": {
+        "pregunta": "El derecho constitucional a la salud fue desarrollado por:",
+        "opciones": {
+            "A": "La Ley de Bases de la Sanidad Nacional",
+            "B": "Ley General de Sanidad",
+            "C": "La Ley General de la Seguridad Social",
+            "D": "La Ley del Estatuto Marco",
+            "E": "Ley de Salud de Andalucía"
+        },
+        "respuesta_correcta": "B"
+    },
+    "Temario comun_pregunta20": {
+        "pregunta": "El nuevo Estatuto de Autonomía de Andalucía, entró en vigor el día:",
+        "opciones": {
+            "A": "18 de marzo de 2007.",
+            "B": "20 de marzo de 2007.",
+            "C": "25 de marzo de 2007.",
+            "D": "Al día siguiente de su publicación en el BOE.",
+            "E": "Al día siguiente de su publicación en el BOJA."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Temario comun_pregunta21": {
+        "pregunta": "Con la entrada en vigor del nuevo Estatuto de Autonomía de Andalucía, el anterior ha quedado:",
+        "opciones": {
+            "A": "Derogado.",
+            "B": "Parcialmente derogado.",
+            "C": "Sin aplicación hasta que el Tribunal Constitucional se pronuncie sobre su legalidad.",
+            "D": "En vigor durante un año.",
+            "E": "En vigor, pero sólo aquellos artículos que no contradicen al actual Estatuto."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Temario comun_pregunta22": {
+        "pregunta": "Las competencias exclusivas recogidas en el Estatuto de Autonomía de Andalucía, comprenden:",
+        "opciones": {
+            "A": "La función ejecutiva.",
+            "B": "La potestad reglamentaria.",
+            "C": "La potestad legislativa.",
+            "D": "Las tres anteriores son ciertas.",
+            "E": "Ninguna de ellas."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Temario comun_pregunta23": {
+        "pregunta": "En relación a las competencias exclusivas recogidas en el Estatuto de Autonomía, el derecho andaluz en su ámbito geográfico tiene carácter:",
+        "opciones": {
+            "A": "Preferente en su territorio sobre cualquier otro.",
+            "B": "Supletorio en su territorio sobre cualquier otro, teniendo el derecho estatal carácter preferente.",
+            "C": "Supletorio al derecho estatal.",
+            "D": "Preferente en su territorio sobre cualquier otro, teniendo el derecho estatal carácter supletorio.",
+            "E": "Preferente en todo el estado español."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Temario comun_pregunta24": {
+        "pregunta": "En las competencias compartidas ¿quién fija las bases?",
+        "opciones": {
+            "A": "El Gobierno, con normas de rango de decreto.",
+            "B": "El Estado, con normas de rango de ley.",
+            "C": "El Parlamento Andaluz, con normas de rango de ley autonómica.",
+            "D": "La Comisión de Transferencias.",
+            "E": "El Consejo de Gobierno de la Junta de Andalucía."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Temario comun_pregunta25": {
+        "pregunta": "El actual Estatuto de Autonomía tiene rango de:",
+        "opciones": {
+            "A": "Real DecretoLey.",
+            "B": "Ley orgánica.",
+            "C": "Ley autonómica.",
+            "D": "Ley ordinaria.",
+            "E": "Ley fundamental."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Temario comun_pregunta26": {
+        "pregunta": "El derecho a la salud lo contempla el Estatuto de Autonomía como una competencia:",
+        "opciones": {
+            "A": "De carácter exclusivo.",
+            "B": "De carácter compartido.",
+            "C": "De carácter transferido.",
+            "D": "De carácter delegatorio.",
+            "E": "De carácter supletorio."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Temario comun_pregunta27": {
+        "pregunta": "El derecho a la salud, sanidad y farmacia viene recogido en el Estatuto de Autonomía en el artículo:",
+        "opciones": {
+            "A": "40",
+            "B": "43",
+            "C": "50",
+            "D": "55",
+            "E": "52"
+        },
+        "respuesta_correcta": "D"
+    },
+    "Temario comun_pregunta28": {
+        "pregunta": "A los pacientes y usuarios del sistema andaluz de salud, no se les garantiza el siguiente derecho:",
+        "opciones": {
+            "A": "Al acceso a cuidados paliativos.",
+            "B": "A recibir asistencia geriátrica especializada.",
+            "C": "Al consejo genético y a la medicina predictiva.",
+            "D": "A la libre elección de médico y de centro sanitario público o privado.",
+            "E": "A disponer de una segunda opinión facultativa sobre sus procesos."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Temario comun_pregunta29": {
+        "pregunta": "¿Quién integra la Junta de Andalucía?",
+        "opciones": {
+            "A": "Parlamento de Andalucía.",
+            "B": "Presidencia de la Junta.",
+            "C": "Consejo de Gobierno.",
+            "D": "Todos los anteriores.",
+            "E": "Ninguno de los anteriores."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Temario comun_pregunta30": {
+        "pregunta": "¿Qué otras instituciones y órganos forman parte de la organización de la Junta de Andalucía?",
+        "opciones": {
+            "A": "Defensor del Pueblo Andaluz, Consejo Económico y Social, Consejo Consultivo, Cámara de Cuentas y Consejo Audiovisual de Andalucía.",
+            "B": "Consejo Consultivo.",
+            "C": "Cámara de Cuentas.",
+            "D": "Consejo Audiovisual de Andalucía.",
+            "E": "Ninguno de los anteriores."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Temario comun_pregunta31": {
+        "pregunta": "¿Quién compone el Parlamento?",
+        "opciones": {
+            "A": "Por un mínimo de 109 Diputados y Diputadas, elegidos por sufragio universal, igual, libre, directo y secreto.",
+            "B": "Por un mínimo de 90 Diputados y Diputadas, elegidos por sufragio universal, igual, libre, directo y secreto.",
+            "C": "Por un mínimo de 120 Diputados y Diputadas, elegidos por sufragio universal, igual, libre, directo y secreto.",
+            "D": "Por un mínimo de 110 Diputados y Diputadas, elegidos por sufragio universal, igual, libre, directo y secreto.",
+            "E": "Por un mínimo de 10 Diputados y Diputadas, elegidos por sufragio universal, igual, libre, directo y secreto."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Temario comun_pregunta32": {
+        "pregunta": "¿Por cuántos años es elegido el Parlamento?",
+        "opciones": {
+            "A": "8",
+            "B": "6",
+            "C": "4",
+            "D": "2",
+            "E": "Ninguna es correcta."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Temario comun_pregunta33": {
+        "pregunta": "¿A quién le corresponde decidir sobre la inculpación, prisión, procesamiento y juicio de los Diputados?",
+        "opciones": {
+            "A": "A las Fuerzas del Estado.",
+            "B": "Al Tribunal Superior de Justicia de Andalucía.",
+            "C": "Tribunal Supremo.",
+            "D": "A la Guardia Civil.",
+            "E": "Policía Autonómica."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Temario comun_pregunta34": {
+        "pregunta": "¿Qué autonomía tiene el Parlamento?",
+        "opciones": {
+            "A": "Plena autonomía reglamentaria.",
+            "B": "Plena autonomía presupuestaria.",
+            "C": "Plena autonomía administrativa.",
+            "D": "Plena autonomía disciplinaria.",
+            "E": "Todas las anteriores."
+        },
+        "respuesta_correcta": "E"
+    },
+    "Temario comun_pregunta35": {
+        "pregunta": "¿Cuál de las siguientes son funciones del Parlamento?",
+        "opciones": {
+            "A": "El ejercicio de la potestad legislativa propia de la Comunidad Autónoma, así como la que le corresponda de acuerdo con el artículo 150.1 y 2 de la Constitución.",
+            "B": "El examen, la enmienda y la aprobación de los presupuestos.",
+            "C": "La elección del Presidente de la Junta.",
+            "D": "La apreciación, en su caso, de la incapacidad del Presidente de la Junta.",
+            "E": "Todas las anteriores son funciones del Parlamento."
+        },
+        "respuesta_correcta": "E"
+    },
+    "Temario comun_pregunta36": {
+        "pregunta": "¿Cuándo cesa el Consejo de Gobierno?",
+        "opciones": {
+            "A": "Tras la celebración de elecciones al Parlamento.",
+            "B": "El Consejo de Gobierno cesa tras la celebración de elecciones al Parlamento, y en los casos de pérdida de cuestión de confianza o aprobación de moción de censura, dimisión, incapacidad, condena penal firme que inhabilite para el desempeño de cargo público o fallecimiento del Presidente.",
+            "C": "A los 4 años.",
+            "D": "Ninguna es correcta.",
+            "E": "Todas son correctas."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Temario comun_pregunta37": {
+        "pregunta": "El Defensor del Pueblo Andaluz supervisa la actividad de las Administraciones públicas de Andalucía, ¿ante qué institución debe dar cuenta?",
+        "opciones": {
+            "A": "Consejo de Gobierno.",
+            "B": "Parlamento Andaluz.",
+            "C": "Defensor del Pueblo designado por las Cortes Generales.",
+            "D": "Presidente de la Junta de Andalucía.",
+            "E": "Cámara de Cuentas."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Temario comun_pregunta38": {
+        "pregunta": "¿Qué materias no puede delegar el Parlamento en el Consejo de Gobierno?",
+        "opciones": {
+            "A": "Las leyes de reforma del Estatuto de Autonomía.",
+            "B": "Las leyes del presupuesto de la Comunidad Autónoma.",
+            "C": "Las leyes que requieran cualquier mayoría cualificada del Parlamento.",
+            "D": "Las leyes relativas al desarrollo de los derechos y deberes regulados en este Estatuto.",
+            "E": "Todas las anteriores son materias que no puede delegar el Parlamento."
+        },
+        "respuesta_correcta": "E"
+    },
+    "Temario comun_pregunta39": {
+        "pregunta": "La Ley General de Sanidad nace como consecuencia del:",
+        "opciones": {
+            "A": "Artículo 49 de la Constitución.",
+            "B": "Artículo 44 de la Constitución.",
+            "C": "Artículo 43 de la Constitución.",
+            "D": "Artículo 47 de la Constitución.",
+            "E": "Artículo 23 de la constitución."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Temario comun_pregunta40": {
+        "pregunta": "¿Dentro de qué marco crearán las Comunidades Autónomas sus Servicios de Salud?",
+        "opciones": {
+            "A": "Dentro del marco de la Ley General de Sanidad.",
+            "B": "Dentro del marco de la legislación autonómica en materia de salud.",
+            "C": "Dentro del marco de sus respectivos estatutos de autonomía.",
+            "D": "Dentro del marco de la Constitución Española.",
+            "E": "Las respuestas a y c son correctas."
+        },
+        "respuesta_correcta": "E"
+    },
+    "Temario comun_pregunta41": {
+        "pregunta": "Según la Ley General de Sanidad, los medios y actuaciones del sistema sanitario estarán orientados prioritariamente:",
+        "opciones": {
+            "A": "A la promoción de la salud.",
+            "B": "A la absoluta cura de las enfermedades contraídas.",
+            "C": "A la prevención de enfermedades.",
+            "D": "Las respuestas a y c son correctas.",
+            "E": "A la mejora de los medios empleados en la atención al paciente."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Temario comun_pregunta42": {
+        "pregunta": "Según la Ley General de Sanidad, son titulares del derecho a la protección de la salud y a la atención sanitaria:",
+        "opciones": {
+            "A": "Los españoles y los extranjeros que tengan establecida su residencia en el territorio nacional.",
+            "B": "Los españoles siempre y los extranjeros sólo en los casos de urgencia o accidente.",
+            "C": "Los españoles siempre y los extranjeros sólo en caso de embarazo.",
+            "D": "Los españoles y los extranjeros cuando se encuentren en territorio español.",
+            "E": "Solo los españoles cuando se encuentren en territorio nacional."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Temario comun_pregunta43": {
+        "pregunta": "Conforman el Sistema Nacional de Salud:",
+        "opciones": {
+            "A": "Los servicios de salud de la Administración del Estado y los servicios de salud de las Comunidades Autónomas.",
+            "B": "Los servicios de salud de la Administración del Estado.",
+            "C": "El servicio de salud de la Comunidad Autónoma de Andalucía.",
+            "D": "No existe un Sistema Nacional de Salud, solo los servicios de salud de las distintas Comunidades Autónomas.",
+            "E": "Los servicios de salud de las distintas comunidades autónomas."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Temario comun_pregunta44": {
+        "pregunta": "En relación con las Áreas de Salud, como mínimo debería existir:",
+        "opciones": {
+            "A": "Dos áreas por provincia.",
+            "B": "Un área por provincia.",
+            "C": "Un área a nivel comarcal.",
+            "D": "Un área por Comunidad Autónoma.",
+            "E": "Tres áreas en todo el territorio nacional."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Temario comun_pregunta45": {
+        "pregunta": "El organismo denominado Instituto Nacional de Salud ha sido sustituido por:",
+        "opciones": {
+            "A": "Instituto Nacional de la Calidad Sanitaria.",
+            "B": "Instituto Nacional de la Gestión Sanitaria.",
+            "C": "Instituto Nacional de la investigación y desarrollo sanitarios.",
+            "D": "Instituto Nacional de epidemiología sanitaria.",
+            "E": "No ha sido sustituido."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Temario comun_pregunta46": {
+        "pregunta": "¿Cuál de las siguientes no es una obligación de los ciudadanos?",
+        "opciones": {
+            "A": "Cumplir con las prescripciones generales de naturaleza sanitaria comunes a toda la población.",
+            "B": "Cuidar de las instalaciones y colaborar con el mantenimiento de la habitabilidad de las Instituciones Sanitarias.",
+            "C": "Responsabilizarse del uso adecuado de las prestaciones ofrecidas por el sistema sanitario.",
+            "D": "Agotar las posibilidades razonables de superación de la enfermedad.",
+            "E": "Responsabilizarse del uso adecuado en los procedimientos de baja laboral o incapacidad permanente y prestaciones terapéuticas y sociales."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Temario comun_pregunta47": {
+        "pregunta": "Artículo de la Ley General de Sanidad donde se recoge que los Poderes Públicos deberán informar a los usuarios de los servicios del sistema sanitario público o vinculados a él, de sus derechos y deberes:",
+        "opciones": {
+            "A": "Artículo 8.",
+            "B": "Artículo 7.",
+            "C": "Artículo 10.",
+            "D": "Artículo 11.",
+            "E": "Artículo 9."
+        },
+        "respuesta_correcta": "E"
+    },
+    "Temario comun_pregunta48": {
+        "pregunta": "¿A quién corresponde la aprobación definitiva del Plan Integrado de Salud?",
+        "opciones": {
+            "A": "Comunidades Autónomas.",
+            "B": "Corporaciones Locales.",
+            "C": "Gobierno.",
+            "D": "Delegado de Gobierno.",
+            "E": "Consejera de sanidad autonómica."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Temario comun_pregunta49": {
+    "pregunta": "¿De quiénes son piezas básicas las Áreas de Salud?",
+    "opciones": {
+        "A": "De las Zonas Básicas de Salud.",
+        "B": "De las Direcciones de Área.",
+        "C": "De los Servicios de Salud de las Comunidades Autónomas.",
+        "D": "Las respuestas a y b son correctas.",
+        "E": "Las respuestas b y c son correctas."
+    },
+    "respuesta_correcta": "C"
+},
+"Temario comun_pregunta50": {
+    "pregunta": "No es un derecho recogido en la Ley General de Sanidad, con respecto a las distintas Administraciones Públicas Sanitarias:",
+    "opciones": {
+        "A": "La información sobre Servicios Sanitarios a los que se puede acceder y sobre los requisitos necesarios para su uso.",
+        "B": "La libre elección entre las opciones que le presente el responsable médico en su caso.",
+        "C": "Respeto a la personalidad, dignidad humana e intimidad.",
+        "D": "Cuidar de las instalaciones y colaborar en el mantenimiento de la habitabilidad de las Instituciones Sanitarias.",
+        "E": "Confidencialidad de toda la información relacionada con su proceso."
+    },
+    "respuesta_correcta": "D"
+},
+"Temario comun_pregunta51": {
+    "pregunta": "El acceso a la asistencia sanitaria pública se extenderá a toda la población española. El acceso y las prestaciones se realizarán:",
+    "opciones": {
+        "A": "Con justicia.",
+        "B": "Con solidaridad.",
+        "C": "En condiciones de igualdad efectiva.",
+        "D": "Ninguna es correcta.",
+        "E": "Todas son correctas."
+    },
+    "respuesta_correcta": "C"
+},
+"Temario comun_pregunta52": {
+    "pregunta": "Los servicios sanitarios, así como, los administrativos, económicos y cualesquiera otros que sean precisos para el funcionamiento del Sistema de Salud, adecuarán su organización y funcionamiento a los principios administrativos de:",
+    "opciones": {
+        "A": "Eficacia, desconcentración, economía y flexibilidad.",
+        "B": "Eficacia, celeridad, economía y descentralización.",
+        "C": "Eficiencia, celeridad, economía y flexibilidad.",
+        "D": "Eficacia, transparencia, economía y flexibilidad.",
+        "E": "Eficacia, celeridad, economía y flexibilidad."
+    },
+    "respuesta_correcta": "E"
+},
+"Temario comun_pregunta53": {
+    "pregunta": "La atención a la salud en el nivel de Asistencia Especializada se prestará:",
+    "opciones": {
+        "A": "Hospitales y Centros de Especialidades.",
+        "B": "Ambulatorios y Centros de Salud.",
+        "C": "Centros de Salud exclusivamente.",
+        "D": "Centros de Especialidades exclusivamente.",
+        "E": "Hospitales exclusivamente."
+    },
+    "respuesta_correcta": "A"
+},
+"Temario comun_pregunta54": {
+    "pregunta": "Al objeto de conseguir la máxima operatividad y eficacia en el funcionamiento de los servicios a nivel primario, las Áreas de Salud se dividirán en:",
+    "opciones": {
+        "A": "Zonas Básicas de Salud.",
+        "B": "Áreas Territoriales Básicas.",
+        "C": "Territorios Básicos de salud.",
+        "D": "Distritos sanitarios.",
+        "E": "Centros Hospitalarios."
+    },
+    "respuesta_correcta": "A"
+},
+"Temario comun_pregunta55": {
+    "pregunta": "Las Áreas de Salud extienden su ámbito a una población:",
+    "opciones": {
+        "A": "No inferior a 200.000 habitantes.",
+        "B": "No inferior a 200.000 ni superior a 250.000 habitantes.",
+        "C": "No inferior a 250.000 habitantes.",
+        "D": "No inferior a 250.000 ni superior a 300.000 habitantes.",
+        "E": "No inferior a 300.000 habitantes."
+    },
+    "respuesta_correcta": "B"
+},
+"Temario comun_pregunta56": {
+    "pregunta": "¿Qué Administraciones Públicas tienen competencias en materia de salud?",
+    "opciones": {
+        "A": "Solo el Estado.",
+        "B": "Estado, Comunidades Autónomas y Corporaciones locales.",
+        "C": "Estado y Comunidades Autónomas.",
+        "D": "Corporaciones Locales exclusivamente.",
+        "E": "Comunidades Autónomas y Corporaciones Locales."
+    },
+    "respuesta_correcta": "B"
+},
+"Temario comun_pregunta57": {
+    "pregunta": "En la delimitación de las Zonas Básicas de Salud deberán tenerse en cuenta:",
+    "opciones": {
+        "A": "Las características epidemiológicas de la zona.",
+        "B": "Las instalaciones y recursos sanitarios de la zona.",
+        "C": "El grado de concentración o dispersión de la población.",
+        "D": "La distancia máxima de las agrupaciones de población más alejadas de los servicios y el tiempo normal invertir en su recorrido, usando los medios ordinarios.",
+        "E": "Todas son correctas."
+    },
+    "respuesta_correcta": "E"
+},
+"Temario comun_pregunta58": {
+    "pregunta": "¿Cuántos Servicios de Salud se podrán constituir en cada Comunidad Autónoma?",
+    "opciones": {
+        "A": "Uno por cada provincia.",
+        "B": "Uno por cada millón de habitantes.",
+        "C": "Solamente uno.",
+        "D": "Tantos como juzgue conveniente la Comunidad Autónoma.",
+        "E": "Uno por cada 250.000 habitantes."
+    },
+    "respuesta_correcta": "C"
+},
+"Temario comun_pregunta59": {
+    "pregunta": "La financiación de las necesidades sanitarias se efectuará a través de:",
+    "opciones": {
+        "A": "Las consignaciones en las partidas presupuestarias del Estado exclusivamente.",
+        "B": "Las consignaciones en las partidas presupuestarias del Estado, Comunidades Autónomas y Corporaciones locales.",
+        "C": "Las consignaciones en las partidas presupuestarias del Estado y la Seguridad Social.",
+        "D": "Las consignaciones en las partidas presupuestarias del Estado, Comunidades Autónomas, Corporaciones Locales y Seguridad Social.",
+        "E": "Las consignaciones en las partidas presupuestarias del Estado y las Comunidades Autónomas."
+    },
+    "respuesta_correcta": "D"
+},
+"Temario comun_pregunta60": {
+    "pregunta": "Los recursos humanos pertenecientes a los servicios del Área de Salud, ¿pueden ser cambiados de puesto de trabajo por necesidades imperativas de la organización sanitaria?",
+    "opciones": {
+        "A": "Sí.",
+        "B": "Sí, pero con respeto de todas sus condiciones laborales.",
+        "C": "Sí, pero de forma voluntaria y con respeto de sus condiciones laborales y económicas.",
+        "D": "Sí, de forma imperativa pero con respeto de sus condiciones laborales y económicas.",
+        "E": "No."
+    },
+    "respuesta_correcta": "D"
+},
+"Temario comun_pregunta61": {
+    "pregunta": "La adopción sistemática de acciones para la educación sanitaria como elemento primordial para la mejora de la salud incluye:",
+    "opciones": {
+        "A": "La formación contra la discriminación de las mujeres.",
+        "B": "La educación para la salud.",
+        "C": "La formación sanitaria básica.",
+        "D": "Todas son correctas.",
+        "E": "Ninguna es correcta."
+    },
+    "respuesta_correcta": "A"
+},
+"Temario comun_pregunta62": {
+    "pregunta": "Se incluyen dentro de la asistencia sanitaria especializada:",
+    "opciones": {
+        "A": "La asistencia domiciliaria.",
+        "B": "La asistencia social.",
+        "C": "La hospitalización.",
+        "D": "La rehabilitación.",
+        "E": "Las respuestas a, c y d son correctas."
+    },
+    "respuesta_correcta": "E"
+},
+"Temario comun_pregunta63": {
+    "pregunta": "La atención a los problemas de salud mental de la población se realiza potenciando:",
+    "opciones": {
+        "A": "Los recursos asistenciales a nivel ambulatorio.",
+        "B": "Los sistemas de hospitalización parcial.",
+        "C": "Los sistemas de atención a domicilio.",
+        "D": "Considerando de modo especial aquellos problemas referentes a la psiquiatría infantil y a la psicogeriatría.",
+        "E": "Todas son correctas."
+    },
+    "respuesta_correcta": "E"
+},
+
+"Temario comun_pregunta64": {
+    "pregunta": "La Ley 2/98 tiene por objeto principal:",
+    "opciones": {
+        "A": "El control y regularización de las listas de espera.",
+        "B": "La atención a las personas ancianas.",
+        "C": "La regulación de las actuaciones que permitan hacer efectivo el derecho a la protección de la salud de los ciudadanos en Andalucía.",
+        "D": "La ordenación de las actividades de los centros de entidad privada o en concierto con el Servicio Andaluz de Salud.",
+        "E": "Ninguna es correcta."
+    },
+    "respuesta_correcta": "C"
+},
+"Temario comun_pregunta65": {
+    "pregunta": "Son principios generales de la Ley 2/98:",
+    "opciones": {
+        "A": "Universalización en los niveles de salud.",
+        "B": "Centralización del sistema sanitario.",
+        "C": "Participación de los Ciudadanos.",
+        "D": "A y C son correctas.",
+        "E": "Ninguna es correcta."
+    },
+    "respuesta_correcta": "D"
+},
+"Temario comun_pregunta66": {
+    "pregunta": "No es un principio general de la Ley 2/98:",
+    "opciones": {
+        "A": "Participación ciudadana.",
+        "B": "Participación de los trabajadores del Sistema Sanitario.",
+        "C": "Planificación de la organización sanitaria.",
+        "D": "Concepción ramificada de la salud en escalas o partes.",
+        "E": "Mejora continua en la calidad de los servicios."
+    },
+    "respuesta_correcta": "D"
+},
+"Temario comun_pregunta67": {
+    "pregunta": "Los derechos y obligaciones de los ciudadanos ante los servicios sanitarios se contemplan en la Ley 2/98 en su Título:",
+    "opciones": {
+        "A": "Título I.",
+        "B": "Título II.",
+        "C": "Título III.",
+        "D": "Título IV.",
+        "E": "Título V."
+    },
+    "respuesta_correcta": "B"
+},
+"Temario comun_pregunta68": {
+    "pregunta": "Los enfermos mentales, de conformidad con lo previsto en el Código Civil, tendrán derecho según la Ley 2/98:",
+    "opciones": {
+        "A": "A que por el centro se reexamine, al menos trimestralmente, la necesidad del internamiento forzoso.",
+        "B": "A que por el centro se reexamine, de forma anual, la necesidad del internamiento forzoso.",
+        "C": "A que por el centro se reexamine, al menos trimestralmente, la necesidad del internamiento forzoso no siendo necesario en ningún caso informar a la autoridad judicial.",
+        "D": "La atención de los enfermos mentales no viene recogida en la Ley 2/98.",
+        "E": "Ninguna es correcta."
+    },
+    "respuesta_correcta": "B"
+},
+"Temario comun_pregunta69": {
+    "pregunta": "La libre elección entre las opciones que les presente el responsable médico de su caso, siendo preciso el previo consentimiento escrito del paciente para la realización de cualquier intervención sanitaria, excepto en los siguientes casos:",
+    "opciones": {
+        "A": "Cuando la posibilidad de lesión irreversible o peligro de fallecimiento exija una actuación urgente.",
+        "B": "Cuando la no intervención suponga un riesgo para la salud pública.",
+        "C": "Cuando no esté capacitado para tomar decisiones, en cuyo caso, el derecho corresponderá a sus familiares o personas allegadas.",
+        "D": "A y B son correctas.",
+        "E": "Todas son correctas."
+    },
+    "respuesta_correcta": "E"
+},
+"Temario comun_pregunta70": {
+    "pregunta": "¿En qué artículos del Capítulo I, del Título II de la Ley 2/98 se establece que los ciudadanos, al amparo de esta Ley, son titulares y disfrutan, con respecto a los servicios sanitarios públicos en Andalucía de los derechos en temas de salud?",
+    "opciones": {
+        "A": "Artículos 2 y 3.",
+        "B": "Artículos 4 y 5.",
+        "C": "Artículos 6 y 7.",
+        "D": "Artículos 8 y 9.",
+        "E": "Ninguna es correcta."
+    },
+    "respuesta_correcta": "C"
+},
+
+"Temario comun_pregunta71": {
+    "pregunta": "El derecho a que los niños, los ancianos, los enfermos mentales, las personas que padecen enfermedades crónicas e invalidantes y las que pertenezcan a grupos específicos reconocidos sanitariamente como de riesgo, tengan actuaciones y programas sanitarios especiales y preferentes viene recogido en qué Título de la Ley 2/98:",
+    "opciones": {
+        "A": "Título I.",
+        "B": "Título II.",
+        "C": "Título III.",
+        "D": "Título IV.",
+        "E": "Título V."
+    },
+    "respuesta_correcta": "B"
+},
+"Temario comun_pregunta72": {
+    "pregunta": "En qué Título de la Ley 2/98 vienen recogidos los deberes de los ciudadanos respecto a los servicios sanitarios de Andalucía:",
+    "opciones": {
+        "A": "Título I.",
+        "B": "Título II.",
+        "C": "Título III.",
+        "D": "Título IV.",
+        "E": "Título V."
+    },
+    "respuesta_correcta": "B"
+},
+"Temario comun_pregunta73": {
+    "pregunta": "Las competencias y funciones del Servicio Andaluz de Salud vienen recogidas en:",
+    "opciones": {
+        "A": "Ley 2/98 de 15 de Junio.",
+        "B": "Ley 2000 de 24 de Abril.",
+        "C": "Decreto 241/2000.",
+        "D": "Decreto 24/2004.",
+        "E": "Ninguna es correcta."
+    },
+    "respuesta_correcta": "A"
+},
+"Temario comun_pregunta74": {
+    "pregunta": "Son deberes de los ciudadanos según la Ley 2/98 de Salud de Andalucía:",
+    "opciones": {
+        "A": "Cuidar las instalaciones y colaborar en el mantenimiento de la habitabilidad de los centros.",
+        "B": "Cumplir las prescripciones generales en materia de salud comunes a toda la población, así como las específicas determinadas por los servicios sanitarios.",
+        "C": "No tiene como deber firmar, en caso de negarse a las actuaciones sanitarias, el documento pertinente.",
+        "D": "A y B son correctas.",
+        "E": "Ninguna es correcta."
+    },
+    "respuesta_correcta": "D"
+},
+"Temario comun_pregunta75": {
+    "pregunta": "En la Ley 2/98 de Junio se establece:",
+    "opciones": {
+        "A": "La obligación de no revelar datos del proceso en los centros públicos, con excepción de la información necesaria en los casos y con los requisitos previstos expresamente en la legislación vigente.",
+        "B": "La obligación de no revelar datos del proceso en los centros privados, con excepción de la información necesaria en los casos y con los requisitos previstos expresamente en la legislación vigente.",
+        "C": "La obligación de no revelar datos del proceso exclusivamente del personal sanitario al ser una Ley de Sanidad.",
+        "D": "No refleja la obligación de no revelar datos de los procesos a los que son atendidos los pacientes.",
+        "E": "A y C son correctas."
+    },
+    "respuesta_correcta": "E"
+},
+"Temario comun_pregunta76": {
+    "pregunta": "¿Cuántos Planes de Salud han sido realizados en Andalucía?",
+    "opciones": {
+        "A": "Un Plan Andaluz de Salud, siendo el que actualmente está vigente.",
+        "B": "Dos Planes Andaluces de Salud, siendo este último el que está vigente.",
+        "C": "Tres Planes Andaluces de Salud, siendo este último el que está vigente.",
+        "D": "Cuatro Planes Andaluces de Salud, siendo este último el que está vigente."
+    },
+    "respuesta_correcta": "D"
+},
+"Temario comun_pregunta77": {
+    "pregunta": "El I Plan Andaluz de Salud fue aprobado por el Consejo de Gobierno de la Junta de Andalucía en el año:",
+    "opciones": {
+        "A": "1990.",
+        "B": "1991.",
+        "C": "1992.",
+        "D": "1993.",
+        "E": "1995."
+    },
+    "respuesta_correcta": "D"
+},
+"Temario comun_pregunta78": {
+    "pregunta": "En qué artículo de la Ley de Salud de Andalucía establece que las líneas directivas y de planificación de actividades, programas y recursos necesarios son su marco de referencia:",
+    "opciones": {
+        "A": "Artículo 30.",
+        "B": "Artículo 25.",
+        "C": "Artículo 20.",
+        "D": "Artículo 15.",
+        "E": "Artículo 10."
+    },
+    "respuesta_correcta": "A"
+},
+"Temario comun_pregunta79": {
+    "pregunta": "El IV Plan Andaluz de Salud tiene una vigencia desde:",
+    "opciones": {
+        "A": "1998-2003.",
+        "B": "2003-2008.",
+        "C": "2008-2013.",
+        "D": "2013-2020.",
+        "E": "Ninguna de las anteriores."
+    },
+    "respuesta_correcta": "D"
+},
+"Temario comun_pregunta80": {
+    "pregunta": "Los compromisos del IV Plan Andaluz de Salud son:",
+    "opciones": {
+        "A": "Aumentar la esperanza de vida en buena salud.",
+        "B": "Proteger y promover la salud frente al cambio climático, la globalización y los riesgos emergentes de origen ambiental y alimentario.",
+        "C": "Reducir las desigualdades sociales en salud.",
+        "D": "Todas son correctas.",
+        "E": "Ninguna es correcta."
+    },
+    "respuesta_correcta": "D"
+},
+"Temario comun_pregunta81": {
+    "pregunta": "¿Qué Título dedica el Capítulo I a las actuaciones en materia de Salud Pública, el Capítulo II a las actuaciones en materia de Salud Laboral y el Capítulo III a las actuaciones en materia de asistencia sanitaria?",
+    "opciones": {
+        "A": "Título II.",
+        "B": "Título IV.",
+        "C": "Título VII.",
+        "D": "Título I.",
+        "E": "Título III."
+    },
+    "respuesta_correcta": "A"
+},
+"Temario comun_pregunta82": {
+    "pregunta": "La Administración Sanitaria Pública de Andalucía, promoverá el desarrollo de las actuaciones relacionadas con la salud pública:",
+    "opciones": {
+        "A": "Tendrá como función exclusiva la farmacovigilancia y control de las reacciones adversas de medicamentos.",
+        "B": "Promoción y mejora de la salud mental.",
+        "C": "El control sanitario y la prevención de las antropozoonosis.",
+        "D": "B y C son correctas.",
+        "E": "Ninguna es correcta."
+    },
+    "respuesta_correcta": "E"
+},
+"Temario comun_pregunta83": {
+    "pregunta": "¿Qué Ley desarrolla los aspectos de Salud Pública contenidos en la Ley 2/98?",
+    "opciones": {
+        "A": "Ley 16/2011.",
+        "B": "Decreto 24/2004.",
+        "C": "Decreto 241/2000.",
+        "D": "Ley 2000 de 24 de Abril.",
+        "E": "Ninguna de las anteriores."
+    },
+    "respuesta_correcta": "A"
+},
+"Temario comun_pregunta84": {
+    "pregunta": "La Ley de Salud Pública de Andalucía, Ley 16/2011, tiene como objetivos:",
+    "opciones": {
+        "A": "Establecer los derechos, obligaciones y responsabilidades de la población en Andalucía respecto a la salud pública.",
+        "B": "Establecer las funciones y competencias en materia de salud pública, sus prestaciones y servicios y las líneas para organizar su gobernanza.",
+        "C": "Situar a todas las personas en Andalucía y a los andaluces en el mundo como eje central de las actuaciones de salud pública.",
+        "D": "A y B son correctas.",
+        "E": "Todas son correctas."
+    },
+    "respuesta_correcta": "E"
+},
+"Temario comun_pregunta85": {
+    "pregunta": "¿Qué Título de la Ley 2/98 establece las actuaciones en términos de Salud Laboral?",
+    "opciones": {
+        "A": "Título V.",
+        "B": "Título IV.",
+        "C": "Título III.",
+        "D": "Título II.",
+        "E": "Título I."
+    },
+    "respuesta_correcta": "B"
+},
+"Temario comun_pregunta86": {
+    "pregunta": "La Ley 2/98 ¿qué actuaciones establece relacionadas con la asistencia sanitaria?",
+    "opciones": {
+        "A": "La atención integral de la salud, garantizando la continuidad de la asistencia, que incluye las actividades de promoción de la salud, salud pública, prevención de las enfermedades.",
+        "B": "Atención a los problemas de salud mental, preferentemente en el ámbito de la comunidad.",
+        "C": "Educación para la salud de la población.",
+        "D": "La elaboración y divulgación de estudios, investigaciones y estadísticas relacionados con la salud de los trabajadores.",
+        "E": "A y B."
+    },
+    "respuesta_correcta": "E"
+},
+"Temario comun_pregunta87": {
+    "pregunta": "Los ciudadanos al amparo de la Ley 2/98 tienen derecho:",
+    "opciones": {
+        "A": "Al acceso a su historia clínica.",
+        "B": "A negarse siempre que lo desee, a un tratamiento médico indistintamente de la causa que lo genere.",
+        "C": "A las prestaciones de salud individual siempre y cuando estén al día de sus prestaciones de la seguridad social.",
+        "D": "A una habitación individual.",
+        "E": "Ninguna de las anteriores."
+    },
+    "respuesta_correcta": "A"
+},
+    "Temario comun_pregunta88": {
+        "pregunta": "¿Qué órgano de la Consejería de Igualdad, Salud y Políticas Sociales asume las competencias en materia de coordinación de la política de conciertos con entidades publicas y privadas para la prestación de servicios sanitarios?",
+        "opciones": {
+            "A": "Secretaría General Técnica",
+            "B": "Secretaría General de Calidad y Modernización",
+            "C": "Dirección General de Planiﬁcación y Financiación",
+            "D": "Dirección General de Innovación Sanitaria, Sistemas y Tecnologías",
+            "E": "Dirección General de Planiﬁcación y Ordenación Farmacéutica"
+        },
+        "respuesta_correcta": "E"
+    },
+    "Temario comun_pregunta89": {
+        "pregunta": "¿A qué órgano del Servicio Andaluz de Salud corresponde el ejercicio de la potestad disciplinaria?",
+        "opciones": {
+            "A": "Delegado Territorial de la Consejería de Igualdad, Salud y Políticas Sociales",
+            "B": "Dirección General de Profesionales",
+            "C": "Dirección General de Gestión Económica y Servicios",
+            "D": "Dirección Gerencia",
+            "E": "Viceconsejería de la Consejería de Igualdad, Salud y Políticas Sociales"
+        },
+        "respuesta_correcta": "B"
+    },
+    "Temario comun_pregunta90": {
+        "pregunta": "La estructura orgánica de la Consejería de Igualdad, Salud y Políticas Sociales y del Servicio Andaluz de Salud se establece por:",
+        "opciones": {
+            "A": "Decreto 140/2013, de 1 de octubre",
+            "B": "Decreto 152/2012, de 5 de junio",
+            "C": "Decreto de la Presidenta 4/2013, de 9 de septiembre",
+            "D": "Ley 9/2007, de 22 de octubre",
+            "E": "Ninguna es correcta"
+        },
+        "respuesta_correcta": "A"
+    },
+    "Temario comun_pregunta91": {
+        "pregunta": "El Servicio Andaluz de Salud, según la Ley 9/2007, de 22 de octubre, es:",
+        "opciones": {
+            "A": "Un Organismo Autónomo",
+            "B": "Una Agencia Pública Empresarial",
+            "C": "Una Empresa Pública sujeta al Derecho Público",
+            "D": "Una Empresa Pública sujeta al Derecho Privado",
+            "E": "Una Agencia Administrativa"
+        },
+        "respuesta_correcta": "E"
+    },
+    "Temario comun_pregunta92": {
+        "pregunta": "El Servicio Andaluz de Salud está adscrito funcionalmente a:",
+        "opciones": {
+            "A": "La Delegación Territorial correspondiente a su ámbito territorial",
+            "B": "La Viceconsejería de Igualdad, Salud y Políticas Sociales",
+            "C": "La Consejería de Hacienda y Administración Pública",
+            "D": "La Consejería de Igualdad, Salud y Políticas Sociales",
+            "E": "El Ministerio de Sanidad, Servicios Sociales e Igualdad"
+        },
+        "respuesta_correcta": "B"
+    },
+    "Temario comun_pregunta93": {
+        "pregunta": "La Dirección General de Asistencia Sanitaria y Resultados en Salud:",
+        "opciones": {
+            "A": "Es un órgano del Servicio Andaluz de Salud",
+            "B": "Es un órgano de la Agencia de Evaluación de Tecnologías Sanitarias de Andalucía",
+            "C": "Es un órgano dependiente de la Viceconsejería de Igualdad, Salud y Políticas Sociales",
+            "D": "Representa ordinariamente a la Consejería de Igualdad, Salud y Políticas Sociales en los Consejos de Administración del Servicio Andaluz de Salud y de las Agencias Públicas Empresariales",
+            "E": "No existe ninguna Dirección General con esta denominación"
+        },
+        "respuesta_correcta": "A"
+    },
+    "Temario comun_pregunta94": {
+        "pregunta": "A la Secretaria General de Calidad, Innovación y Salud Pública le corresponde:",
+        "opciones": {
+            "A": "El impulso, desarrollo y coordinación de las políticas de modernización e innovación en el ámbito de la Consejería",
+            "B": "La definición e impulso de las políticas intersectoriales de la Consejería",
+            "C": "La coordinación y explotación de los sistemas de información de vigilancia de la salud",
+            "D": "El impulso y coordinación de las actuaciones de los distintos órganos directivos del Servicio Andaluz de Salud",
+            "E": "Todas las respuestas son correctas"
+        },
+        "respuesta_correcta": "C"
+    },
+    "Temario comun_pregunta95": {
+        "pregunta": "Las Agencias Públicas Empresariales Sanitarias están adscritas funcionalmente a:",
+        "opciones": {
+            "A": "La Consejería de Igualdad, Salud y Políticas Sociales",
+            "B": "Al Servicio Andaluz de Salud",
+            "C": "No están adscritas funcionalmente a ninguna entidad",
+            "D": "Todas ellas están adscritas funcionalmente a la Agencia Pública Empresarial Costa del Sol",
+            "E": "Todas ellas están adscritas funcionalmente a la Empresa Pública de Emergencias Sanitarias"
+        },
+        "respuesta_correcta": "B"
+    },
+    "Temario comun_pregunta96": {
+        "pregunta": "En caso de vacante, ausencia o enfermedad del titular de la Dirección Gerencia del Servicio Andaluz de Salud, se sustituirá temporalmente por:",
+        "opciones": {
+            "A": "La persona que designe el titular de la Viceconsejería de la Consejería de Igualdad, Salud y Políticas Sociales",
+            "B": "La Viceconsejería",
+            "C": "La Secretaria General Técnica de la Consejería de Igualdad, Salud y Políticas Sociales",
+            "D": "La persona que designe el titular de la Consejería de Igualdad, Salud y Políticas Sociales",
+            "E": "La persona titular de la Dirección General de Asistencia Sanitaria y Resultados en Salud"
+        },
+        "respuesta_correcta": "A"
+    },
+    "Temario comun_pregunta97": {
+        "pregunta": "La elaboración del anteproyecto del presupuesto de la Consejería de Igualdad, Salud y Política Sociales es competencia de:",
+        "opciones": {
+            "A": "La Secretaria General de Planiﬁcación y Evaluación Económica",
+            "B": "La Secretaria General de Calidad, Innovación y Salud Pública",
+            "C": "La Viceconsejería",
+            "D": "La Secretaria General Técnica",
+            "E": "La Secretaría General Técnica de Presupuestos de la Presidencia de la Junta de Viceconsejería"
+        },
+        "respuesta_correcta": "D"
+    },
+    "Temario comun_pregunta98": {
+        "pregunta": "La Jefatura superior del personal de la Consejería de Igualdad, Salud y Política Sociales corresponde a:",
+        "opciones": {
+            "A": "La persona titular de la Consejería de Igualdad, Salud y Políticas Sociales",
+            "B": "La persona titular de la Viceconsejería",
+            "C": "La persona titular de la Secretaria General Técnica",
+            "D": "La persona titular de la Dirección General de Profesionales",
+            "E": "La persona titular de la Dirección Gerencia del SAS"
+        },
+        "respuesta_correcta": "B"
+    },
+    "Temario comun_pregunta99": {
+        "pregunta": "Es competencia de la Consejería de Igualdad, Salud y Política Sociales:",
+        "opciones": {
+            "A": "La ejecución de las directrices y los criterios generales de la política de salud, Planiﬁcación y asistencia sanitaria",
+            "B": "La asignación de recursos a los diferentes programas y demarcaciones territoriales de los centros y servicios sanitarios",
+            "C": "La ejecución de las directrices generales del Consejo de Gobierno sobre promoción de las políticas sociales",
+            "D": "La promoción y coordinación del voluntariado social en Viceconsejería",
+            "E": "Todas son correctas"
+        },
+        "respuesta_correcta": "E"
+    },
+    "Temario comun_pregunta100": {
+        "pregunta": "La autorización de los proyectos de investigación biomédica que comporten procedimientos invasivos en el ser humano, compete a:",
+        "opciones": {
+            "A": "La Dirección General de Calidad, Investigación, Desarrollo e Innovación de la Consejería de Igualdad, Salud y Política Sociales",
+            "B": "La Secretaria General de Calidad, Innovación y Salud Pública de la Consejería de Igualdad, Salud y Política Sociales",
+            "C": "La Agencia de Evaluación de Tecnologías Sanitarias de Viceconsejería",
+            "D": "La Dirección General de Planiﬁcación y Ordenación Farmacéutica de la Consejería de Igualdad, Salud y Política Sociales",
+            "E": "La Dirección General de Asistencia Sanitaria y Resultados en Salud del Servicio Andaluz de Salud"
+        },
+        "respuesta_correcta": "A"
+    },
+    "Temario comun_pregunta101": {
+        "pregunta": "La jefatura superior del personal adscrito al Servicio Andaluz de Salud, recae en:",
+        "opciones": {
+            "A": "La persona titular de la Consejería de Igualdad, Salud y Políticas Sociales",
+            "B": "La persona titular de la Dirección General de Profesionales del SAS",
+            "C": "La persona titular de la Dirección General de Gestión Económica y Servicios del Servicio Andaluz de Salud",
+            "D": "La persona titular de la Secretaria General del Servicio Andaluz de Salud",
+            "E": "Ninguna es correcta"
+        },
+        "respuesta_correcta": "E"
+    },
+    "Temario comun_pregunta102": {
+        "pregunta": "La definición, gestión y evaluación de la carrera profesional y demás acciones de desarrollo profesional es competencia de:",
+        "opciones": {
+            "A": "La Dirección General de Profesionales del Servicio Andaluz de Salud",
+            "B": "La Dirección Gerencia del Servicio Andaluz de Salud",
+            "C": "La Dirección Gerencia de los Centros del Servicio Andaluz de Salud",
+            "D": "Los Directores de las Unidades de Gestión Clínica",
+            "E": "Los Subdirectores de Personal y Desarrollo Profesional de los Centros"
+        },
+        "respuesta_correcta": "A"
+    },
+    "Temario comun_pregunta103": {
+        "pregunta": "La evaluación de la contratación administrativa realizada en el Servicio Andaluz de Salud compete a:",
+        "opciones": {
+            "A": "Es competencia de la Consejería de Hacienda y Administración Pública",
+            "B": "Es competencia de la Consejería de Igualdad, Salud y Política Sociales",
+            "C": "La Dirección Gerencia",
+            "D": "La Dirección General de Profesionales",
+            "E": "La Dirección General de Gestión Económica y Servicios"
+        },
+        "respuesta_correcta": "E"
+    },
+
+    "Temario comun_pregunta104": {
+        "pregunta": "¿Qué órgano de la Consejería de Igualdad, Salud y Políticas Sociales asume las competencias en materia de coordinación de la política de conciertos con entidades públicas y privadas para la prestación de servicios sanitarios?",
+        "opciones": {
+            "A": "Secretaría General Técnica",
+            "B": "Secretaría General de Calidad y Modernización",
+            "C": "Dirección General de Planiﬁcación y Financiación",
+            "D": "Dirección General de Innovación Sanitaria, Sistemas y Tecnologías",
+            "E": "Dirección General de Planiﬁcación y Ordenación Farmacéutica"
+        },
+        "respuesta_correcta": "E"
+    },
+    "Temario comun_pregunta105": {
+        "pregunta": "¿A qué órgano del Servicio Andaluz de Salud corresponde el ejercicio de la potestad disciplinaria?",
+        "opciones": {
+            "A": "Delegado Territorial de la Consejería de Igualdad, Salud y Políticas Sociales",
+            "B": "Dirección General de Profesionales",
+            "C": "Dirección General de Gestión Económica y Servicios",
+            "D": "Dirección Gerencia",
+            "E": "Viceconsejería de la Consejería de Igualdad, Salud y Políticas Sociales"
+        },
+        "respuesta_correcta": "B"
+    },
+    "Temario comun_pregunta106": {
+        "pregunta": "La estructura orgánica de la Consejería de Igualdad, Salud y Políticas Sociales y del Servicio Andaluz de Salud se establece por:",
+        "opciones": {
+            "A": "Decreto 140/2013, de 1 de octubre",
+            "B": "Decreto 152/2012, de 5 de junio",
+            "C": "Decreto de la Presidenta 4/2013, de 9 de septiembre",
+            "D": "Ley 9/2007, de 22 de octubre",
+            "E": "Ninguna es correcta"
+        },
+        "respuesta_correcta": "A"
+    },
+    "Temario comun_pregunta107": {
+        "pregunta": "El Servicio Andaluz de Salud, según la Ley 9/2007, de 22 de octubre, es:",
+        "opciones": {
+            "A": "Un Organismo Autónomo",
+            "B": "Una Agencia Pública Empresarial",
+            "C": "Una Empresa Pública sujeta al Derecho Público",
+            "D": "Una Empresa Pública sujeta al Derecho Privado",
+            "E": "Una Agencia Administrativa"
+        },
+        "respuesta_correcta": "E"
+    },
+    "Temario comun_pregunta108": {
+        "pregunta": "El Servicio Andaluz de Salud está adscrito funcionalmente a:",
+        "opciones": {
+            "A": "La Delegación Territorial correspondiente a su ámbito territorial",
+            "B": "La Viceconsejería de Igualdad, Salud y Políticas Sociales",
+            "C": "La Consejería de Hacienda y Administración Pública",
+            "D": "La Consejería de Igualdad, Salud y Políticas Sociales",
+            "E": "El Ministerio de Sanidad, Servicios Sociales e Igualdad"
+        },
+        "respuesta_correcta": "B"
+    },
+    "Temario comun_pregunta109": {
+        "pregunta": "La Dirección General de Asistencia Sanitaria y Resultados en Salud",
+        "opciones": {
+            "A": "Es un órgano del Servicio Andaluz de Salud",
+            "B": "Es un órgano de la Agencia de Evaluación de Tecnologías Sanitarias de Andalucía",
+            "C": "Es un órgano dependiente de la Viceconsejería de Igualdad, Salud y Políticas Sociales",
+            "D": "Representa ordinariamente a la Consejería de Igualdad, Salud y Políticas Sociales en los Consejos de Administración del Servicio Andaluz de Salud y de las Agencias Públicas Empresariales",
+            "E": "No existe ninguna Dirección General con esta denominación"
+        },
+        "respuesta_correcta": "A"
+    },
+    "Temario comun_pregunta110": {
+        "pregunta": "A la Secretaria General de Calidad, Innovación y Salud Pública le corresponde:",
+        "opciones": {
+            "A": "El impulso, desarrollo y coordinación de las políticas de modernización e innovación en el ámbito de la Consejería",
+            "B": "La definición e impulso de las políticas intersectoriales de la Consejería",
+            "C": "La coordinación y explotación de los sistemas de información de vigilancia de la salud",
+            "D": "El impulso y coordinación de las actuaciones de los distintos órganos directivos del Servicio Andaluz de Salud",
+            "E": "Todas las respuestas son correctas"
+        },
+        "respuesta_correcta": "E"
+    },
+    "Temario comun_pregunta111": {
+        "pregunta": "Las Agencias Públicas Empresariales Sanitarias están adscritas funcionalmente a:",
+        "opciones": {
+            "A": "La Consejería de Igualdad, Salud y Políticas Sociales",
+            "B": "Al Servicio Andaluz de Salud",
+            "C": "No están adscritas funcionalmente a ninguna entidad",
+            "D": "Todas ellas están adscritas funcionalmente a la Agencia Pública Empresarial Costa del Sol",
+            "E": "Todas ellas están adscritas funcionalmente a la Empresa Pública de Emergencias Sanitarias"
+        },
+        "respuesta_correcta": "B"
+    },
+    "Temario comun_pregunta112": {
+        "pregunta": "En caso de vacante, ausencia o enfermedad del titular de la Dirección Gerencia del Servicio Andaluz de Salud, se sustituirá temporalmente por:",
+        "opciones": {
+            "A": "La persona que designe el titular de la Viceconsejería de la Consejería de Igualdad, Salud y Política Sociales",
+            "B": "La Viceconsejería",
+            "C": "La Secretaria General Técnica de la Consejería de Igualdad, Salud y Política Sociales",
+            "D": "La persona que designe el titular de la Consejería de Igualdad, Salud y Política Sociales",
+            "E": "La persona titular de la Dirección General de Asistencia Sanitaria y Resultados en Salud"
+        },
+        "respuesta_correcta": "A"
+    },
+    "Temario comun_pregunta113": {
+        "pregunta": "La elaboración del anteproyecto del presupuesto de la Consejería de Igualdad, Salud y Política Sociales es competencia de:",
+        "opciones": {
+            "A": "La Secretaria General de Planificación y Evaluación Económica",
+            "B": "La Secretaria General de Calidad, Innovación y Salud Pública",
+            "C": "La Viceconsejería",
+            "D": "La Secretaria General Técnica",
+            "E": "La Secretaría General Técnica de Presupuestos de la Presidencia de la Junta de Viceconsejería"
+        },
+        "respuesta_correcta": "D"
+    },
+    "Temario comun_pregunta114": {
+        "pregunta": "La Jefatura superior del personal de la Consejería de Igualdad, Salud y Política Sociales corresponde a:",
+        "opciones": {
+            "A": "La persona titular de la Consejería de Igualdad, Salud y Política Sociales",
+            "B": "La persona titular de la Viceconsejería",
+            "C": "La persona titular de la Secretaria General Técnica",
+            "D": "La persona titular de la Dirección General de Profesionales",
+            "E": "La persona titular de la Dirección Gerencia del SAS"
+        },
+        "respuesta_correcta": "B"
+    },
+    "Temario comun_pregunta115": {
+        "pregunta": "Es competencia de la Consejería de Igualdad, Salud y Política Sociales:",
+        "opciones": {
+            "A": "La ejecución de las directrices y los criterios generales de la política de salud, planificación y asistencia sanitaria",
+            "B": "La asignación de recursos a los diferentes programas y demarcaciones territoriales de los centros y servicios sanitarios",
+            "C": "La ejecución de las directrices generales del Consejo de Gobierno sobre promoción de las políticas sociales",
+            "D": "La promoción y coordinación del voluntariado social en Viceconsejería",
+            "E": "Todas son correctas"
+        },
+        "respuesta_correcta": "E"
+    },
+    "Temario comun_pregunta116": {
+        "pregunta": "La autorización de los proyectos de investigación biomédica que comporten procedimientos invasivos en el ser humano, compete a:",
+        "opciones": {
+            "A": "La Dirección General de Calidad, Investigación, Desarrollo e Innovación de la Consejería de Igualdad, Salud y Política Sociales",
+            "B": "La Secretaria General de Calidad, Innovación y Salud Pública de la Consejería de Igualdad, Salud y Política Sociales",
+            "C": "La Agencia de Evaluación de Tecnologías Sanitarias de Viceconsejería",
+            "D": "La Dirección General de Planificación y Ordenación Farmacéutica de la Consejería de Igualdad, Salud y Política Sociales",
+            "E": "La Dirección General de Asistencia Sanitaria y Resultados en Salud del Servicio Andaluz de Salud"
+        },
+        "respuesta_correcta": "A"
+    },
+    "Temario comun_pregunta117": {
+        "pregunta": "La jefatura superior del personal adscrito al Servicio Andaluz de Salud, recae en:",
+        "opciones": {
+            "A": "La persona titular de la Consejería de Igualdad, Salud y Política Sociales",
+            "B": "La persona titular de la Dirección General de Profesionales del SAS",
+            "C": "La persona titular de la Dirección General de Gestión Económica y Servicios del Servicio Andaluz de Salud",
+            "D": "La persona titular de la Secretaria General del Servicio Andaluz de Salud",
+            "E": "Ninguna es correcta"
+        },
+        "respuesta_correcta": "E"
+    },
+    "Temario comun_pregunta118": {
+        "pregunta": "La definición, gestión y evaluación de la carrera profesional y demás acciones de desarrollo profesional es competencia de:",
+        "opciones": {
+            "A": "La Dirección General de Profesionales del Servicio Andaluz de Salud",
+            "B": "La Dirección Gerencia del Servicio Andaluz de Salud",
+            "C": "La Dirección Gerencia de los Centros del Servicio Andaluz de Salud",
+            "D": "Los Directores de las Unidades de Gestión Clínica",
+            "E": "Los Subdirectores de Personal y Desarrollo Profesional de los Centros"
+        },
+        "respuesta_correcta": "A"
+    },
+    "Temario comun_pregunta119": {
+        "pregunta": "La evaluación de la contratación administrativa realizada en el Servicio Andaluz de Salud compete a:",
+        "opciones": {
+            "A": "Es competencia de la Consejería de Hacienda y Administración Pública",
+            "B": "Es competencia de la Consejería de Igualdad, Salud y Política Sociales",
+            "C": "La Dirección Gerencia",
+            "D": "La Dirección General de Profesionales",
+            "E": "La Dirección General de Gestión Económica y Servicios"
+        },
+        "respuesta_correcta": "E"
+    },
+    "Temario comun_pregunta120": {
+        "pregunta": "Todas excepto una de los siguientes apartados son características generales de la Atención Primaria:",
+        "opciones": {
+            "A": "Diagnóstico de Salud",
+            "B": "Registro de la actividad del centro de salud",
+            "C": "Resultados inmediatos",
+            "D": "Participación de la Comunidad"
+        },
+        "respuesta_correcta": "C"
+    },
+    "Temario comun_pregunta121": {
+        "pregunta": "El Decreto 195/1985 de 28 de agosto, de la Consejería de Salud y Consumo de la Junta de Andalucía define la Zona Básica de Salud como:",
+        "opciones": {
+            "A": "La unidad de planificación y gestión de los servicios de Atención Primaria",
+            "B": "La Unidad de prestación de servicios diferenciados de Salud",
+            "C": "Demarcación poblacional y geográfica fundamental",
+            "D": "b y c son ciertas"
+        },
+        "respuesta_correcta": "D"
+    },
+    "Temario comun_pregunta122": {
+        "pregunta": "Como norma general, el Distrito de Atención Primaria, abarcará una población comprendida entre:",
+        "opciones": {
+            "A": "Los 40.000 y los 100.000 habitantes para el área rural",
+            "B": "Los 40.000 y los 100.000 habitantes para el área urbana",
+            "C": "Los 100.000 y los 150.000 habitantes para el área urbana",
+            "D": "a y c son ciertas"
+        },
+        "respuesta_correcta": "A"
+    },
+    "Temario comun_pregunta123": {
+        "pregunta": "La estructura de dirección, gestión y administración del Distrito de Atención Primaria de Salud dependerá:",
+        "opciones": {
+            "A": "De la Dirección General de Asistencia Sanitaria",
+            "B": "De la Delegación Provincial de la Consejería de Salud",
+            "C": "De los Servicios Centrales del Servicio Andaluz de Salud",
+            "D": "De la Dirección General de Planificación Sanitaria"
+        },
+        "respuesta_correcta": "B"
+    },
+    "Temario comun_pregunta124": {
+        "pregunta": "Son funciones de los Distritos de Atención Primaria todas excepto una:",
+        "opciones": {
+            "A": "Promoción y protección de la salud",
+            "B": "La prevención de la enfermedad",
+            "C": "Participación en las tareas de reinserción social",
+            "D": "Todas son ciertas"
+        },
+        "respuesta_correcta": "D"
+    },
+    "Temario comun_pregunta125": {
+        "pregunta": "Dentro de los programas de Salud Ambiental se incluye:",
+        "opciones": {
+            "A": "La inspección e informe de los locales destinados a establecimientos públicos mercantiles e industriales",
+            "B": "Inspección y realización de las actividades necesarias para el informe de aquellas situaciones ambientales con posible riesgo para la Salud",
+            "C": "Medidas para el control de situaciones de riesgo para la Salud Pública y la aparición de zoonosis transmisibles al hombre",
+            "D": "a y b son ciertas"
+        },
+        "respuesta_correcta": "D"
+    },
+    "Temario comun_pregunta126": {
+        "pregunta": "Las competencias de dirección y gestión de los servicios sanitarios de Atención Primaria, en el ámbito del Distrito:",
+        "opciones": {
+            "A": "Exclusivamente por el Director Gerente del Distrito",
+            "B": "Exclusivamente por la Junta de administración Del Distrito",
+            "C": "Por la Junta de Administración y exdirector Gerente",
+            "D": "Por el Consejo de Dirección"
+        },
+        "respuesta_correcta": "A"
+    },
+    "Temario comun_pregunta127": {
+        "pregunta": "Son funciones del Director Gerente del Distrito todas excepto una:",
+        "opciones": {
+            "A": "La representación del Distrito de Atención Primaria",
+            "B": "Designar los miembros de las Comisiones Técnicas",
+            "C": "Definir las prioridades en materia de formación de los profesionales",
+            "D": "Todas son ciertas"
+        },
+        "respuesta_correcta": "C"
+    },
+    "Temario comun_pregunta128": {
+        "pregunta": "Por el Decreto 245/2001, de 6 de noviembre se crea la categoría de Técnico de Salud de Atención Primaria en el Servicio Andaluz de Salud, todos los siguientes excepto uno son técnicos de salud recogidos en el citado decreto:",
+        "opciones": {
+            "A": "Técnico de salud de Educación para la Salud y Participación Comunitaria",
+            "B": "Técnico de salud de Medicamentos",
+            "C": "Técnico de salud de Sanidad Ambiental",
+            "D": "Todos son técnicos recogidos en el decreto 245/2001"
+        },
+        "respuesta_correcta": "D"
+    },
+    "Temario comun_pregunta129": {
+        "pregunta": "La Orden de 7 de junio de 2002, por la que se actualiza el Mapa de Atención Primaria de Salud de Andalucía, introduce una serie de cambios en la concepción de Zona Básica de Salud, señale la correcta:",
+        "opciones": {
+            "A": "Los límites de las Zonas Básicas de Salud en las capitales de provincia con los límites municipales",
+            "B": "Han aumentado el número de Zonas Básicas de Salud",
+            "C": "Unir en una Zona Básica de Salud municipios cercanos",
+            "D": "a y c son ciertas"
+        },
+        "respuesta_correcta": "D"
+    },
+    "Temario comun_pregunta130": {
+        "pregunta": "Sobre el Acuerdo de Gestión Clínica son todas ciertas excepto una:",
+        "opciones": {
+            "A": "Se realiza a propuesta de la Dirección de Salud",
+            "B": "Es autorizado por la Dirección General de Asistencia Sanitaria",
+            "C": "Tiene una duración de cuatro años",
+            "D": "Todas son ciertas"
+        },
+        "respuesta_correcta": "D"
+    },
+    "Temario comun_pregunta131": {
+        "pregunta": "Son funciones de atención directa de los EBAP todas excepto:",
+        "opciones": {
+            "A": "Acciones de cuidado, recuperación y rehabilitación",
+            "B": "Participación en programas de docencia y formación continuada",
+            "C": "Educación para la Salud",
+            "D": "Todas son funciones de atención directa de los EBAP"
+        },
+        "respuesta_correcta": "B"
+    },
+    "Temario comun_pregunta132": {
+        "pregunta": "Son actividades básicas del programa de atención al niño todas las siguientes excepto una:",
+        "opciones": {
+            "A": "Captación precoz del recién nacido",
+            "B": "Vacunaciones sistemáticas",
+            "C": "Profilaxis de la caries dental",
+            "D": "Todas son ciertas"
+        },
+        "respuesta_correcta": "E"
+    },
+    "Temario comun_pregunta133": {
+        "pregunta": "Dentro de la estructura física y funcional que permite el adecuado desarrollo de la Atención Primaria, como podría definirse un consultorio auxiliar:",
+        "opciones": {
+            "A": "Constituye la infraestructura sanitaria de los grupos de población aislados o aquellos Municipios a los que se desplazarán los profesionales sanitarios para la realización de sus tareas",
+            "B": "Constituyen la infraestructura básica correspondiente a Municipios o núcleos de población superior a 1.500 habitantes donde el personal sanitario local desarrolla la mayor parte de sus actividades",
+            "C": "Son las estructuras físicas y funcionales que permiten el adecuado desarrollo de la Atención Primaria de Salud, integral, permanente y continuada por parte del equipo de profesionales que actúa en el mismo",
+            "D": "Es el Centro de Salud para la Zona Básica donde se ubica y al mismo tiempo, en el que se encuentran los Órganos de dirección y gestión del Distrito de Atención Primaria correspondiente. Asimismo actuará como Centro de Urgencias de su Área que abarcará varias Zonas Básicas de Salud"
+        },
+        "respuesta_correcta": "A"
+    },
+    "Temario comun_pregunta134": {
+        "pregunta": "Sobre el director de una UGC solo una es cierta:",
+        "opciones": {
+            "A": "Será siempre un médico",
+            "B": "Es necesario titulación universitaria",
+            "C": "Ambas son ciertas",
+            "D": "Ninguna es cierta"
+        },
+        "respuesta_correcta": "B"
+    },
+    "Temario comun_pregunta135": {
+        "pregunta": "Serán funciones del Trabajador Social todas excepto una:",
+        "opciones": {
+            "A": "Orientar y asesorar a los miembros del EBAP y especialmente a los directores de programas sobre aspectos sociales individuales y comunitarios de las actividades de los mismos",
+            "B": "Promover el trabajo en equipo con los Trabajadores Sociales de otras Instituciones públicas y privadas para conseguir una mejor utilización de los recursos y servicios sociales",
+            "C": "Ofertar asistencia social sanitaria en consulta o demanda de los miembros del EBAP y de la población",
+            "D": "Todas son funciones de los trabajadores sociales"
+        },
+        "respuesta_correcta": "D"
+    },
+    "Temario comun_pregunta136": {
+        "pregunta": "El Dispositivo de Apoyo Específico efectuará las funciones siguientes excepto:",
+        "opciones": {
+            "A": "Preventivas, a través de la participación de los Programas de Salud y medidas de Educación Sanitaria",
+            "B": "Administrativas, a través de la colaboración con los técnicos de salud de los distritos sanitarios",
+            "C": "Docentes, a través de la formación pre y postgraduada, y la continuada de los profesionales de Atención Primaria, en coordinación con los centros docentes, asistenciales y de investigación existentes",
+            "D": "De investigación, participando en los Programas del Distrito"
+        },
+        "respuesta_correcta": "B"
+    },
+    "Temario comun_pregunta137": {
+        "pregunta": "Dentro del pago capitativo el factor C:",
+        "opciones": {
+            "A": "Retribuye la penosidad del desplazamiento a otro consultorio, se abona en relación al factor TAE",
+            "B": "Retribución variable en función de la consecución de objetivos asistenciales marcados previamente",
+            "C": "Retribución variable en función del número y valor de las tarjetas individuales sanitarias adscritas a cada profesional",
+            "D": "Retribuye el realizar actividad asistencial en horario distinto al habitual, se abona en relación al factor TAE"
+        },
+        "respuesta_correcta": "A"
+    },
+    "Temario comun_pregunta138": {
+        "pregunta": "Según el Decreto 105/1986, de 11 de Junio, sobre Ordenación de asistencia sanitaria especializada y órganos de dirección de los hospitales, son fines de la Asistencia Especializada todos excepto uno:",
+        "opciones": {
+            "A": "Posibilitar el internamiento en régimen de hospitalización a los pacientes que lo precisen",
+            "B": "Participar en la atención de las urgencias, asumiendo las que superen los niveles de Asistencia Primaria",
+            "C": "Prestar atención mediante el modelo bio-psico-social de atención. Atención al sujeto, la familia y la comunidad en que vive",
+            "D": "Participar con el resto del dispositivo sanitario en la prevención de las enfermedades y promoción de la salud"
+        },
+        "respuesta_correcta": "C"
+    },
+    "Temario comun_pregunta139": {
+        "pregunta": "Los Hospitales se pueden clasificar según:",
+        "opciones": {
+            "A": "Su función",
+            "B": "Su dependencia patrimonial",
+            "C": "Su ámbito geográfico",
+            "D": "Todas son ciertas"
+        },
+        "respuesta_correcta": "D"
+    },
+    "Temario comun_pregunta140": {
+        "pregunta": "Los Hospitales Generales de Especialidades presentan las siguientes características excepto:",
+        "opciones": {
+            "A": "Tendrán la consideración de Hospitales de referencia para la asistencia especializada que requiera abarcar más de un Área Hospitalaria",
+            "B": "Asumirán las funciones de Hospital General Básico para el Área a la cual se encuentre adscrito",
+            "C": "Su área poblacional de influencia especializada oscilará entre 250.000 y 650.000 habitantes y estarán ubicados generalmente en las capitales de provincia",
+            "D": "Dará cobertura hospitalaria a zonas cuya población oscile entre 100.000 y 250.000 habitantes"
+        },
+        "respuesta_correcta": "D"
+    },
+    "Temario comun_pregunta141": {
+        "pregunta": "Los centros periféricos de especialidades comprenden las siguientes Unidades Sanitarias excepto:",
+        "opciones": {
+            "A": "Especialidades Médicas",
+            "B": "Especialidades Quirúrgicas",
+            "C": "Estadística Sanitaria",
+            "D": "Todas son ciertas"
+        },
+        "respuesta_correcta": "D"
+    },
+    "Temario comun_pregunta142": {
+        "pregunta": "La Áreas sanitarias en Andalucía pueden crearse mediante:",
+        "opciones": {
+            "A": "Exclusivamente mediante un Decreto",
+            "B": "Exclusivamente mediante una Orden",
+            "C": "Mediante Decreto u Orden",
+            "D": "Mediante Decreto o Disposición"
+        },
+        "respuesta_correcta": "C"
+    },
+    "Temario comun_pregunta143": {
+        "pregunta": "Las Áreas Hospitalarias se delimitarán con arreglo a criterios:",
+        "opciones": {
+            "A": "Geográficos",
+            "B": "Demográficos",
+            "C": "De accesibilidad de la población",
+            "D": "Todos son ciertos"
+        },
+        "respuesta_correcta": "D"
+    },
+    "Temario comun_pregunta144": {
+        "pregunta": "Los Hospitales Generales Básicos son aquellos:",
+        "opciones": {
+            "A": "Ubicados preferentemente en el medio rural, pero pueden tener su equivalencia en el medio urbano",
+            "B": "Destinados preferentemente a una o varias especialidades médicas, quirúrgicas o médico-quirúrgicas",
+            "C": "Tendrán la consideración de Hospitales de referencia para la asistencia especializada que requiera abarcar más de un Área Hospitalaria",
+            "D": "Todas son falsas"
+        },
+        "respuesta_correcta": "A"
+    },
+    "Temario comun_pregunta145": {
+        "pregunta": "La Dispersión Geográfica es un concepto retributivo que:",
+        "opciones": {
+            "A": "Corresponde a la retribución variable en función de la consecución de objetivos asistenciales marcados previamente",
+            "B": "Retribuye el desarrollo profesional de las distintas categorías según antigüedad y méritos",
+            "C": "Retribuye la disponibilidad para realizar actividad domiciliaria",
+            "D": "Retribuye las características del puesto de trabajo o funciones"
+        },
+        "respuesta_correcta": "C"
+    },
+    "Temario comun_pregunta146": {
+        "pregunta": "La Normativa sobre Protección de Datos ampara los ﬁcheros tratados solo por españoles independientemente del pais donde se desarrolle la actividad del tratamiento del mismo",
+        "opciones": {
+            "A": "No, solo ampara a españoles.",
+            "B": "La normativa ampara a españoles y si el responsable del tratamiento no está establecido en territorio español lo hace si los datos son amparados por nuestra legislación.",
+            "C": "No, ampara solo a extranjeros residentes en España.",
+            "D": "Ampara a extranjeros y no a los españoles que traten a los ﬁcheros.",
+            "E": "Ninguna es correcta."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Temario comun_pregunta147": {
+        "pregunta": "Los principios generales inspiradores de la Protección de datos son: Principio de Calidad de los Datos, Deber de Secreto, seguridad de los datos, consentimiento informado, de informar en la recogida de los datos y su comunicación.",
+        "opciones": {
+            "A": "El principio inspirador es únicamente el de seguridad de los datos.",
+            "B": "Ninguno de éstos son los principios inspiradores.",
+            "C": "La LOPD no tiene principios inspiradores.",
+            "D": "Todas son falsas.",
+            "E": "Los principio inspiradores del enunciado son ciertos."
+        },
+        "respuesta_correcta": "E"
+    },
+    "Temario comun_pregunta148": {
+        "pregunta": "La LOPD de 13 de diciembre de 1999 será de aplicación en todos los ﬁcheros, ¿ampara a aquellos que posean los profesionales en sus empresas y los ciudadanos en su uso doméstico?",
+        "opciones": {
+            "A": "Los PCs en cuyo interior hay ﬁcheros que tiene uso individual no les ampara.",
+            "B": "La LOPD ampara a todos los ﬁcheros, independientemente de su uso privado o público.",
+            "C": "Solo ampara a ﬁcheros de uso individual.",
+            "D": "Ninguna es cierta.",
+            "E": "c y d son ciertas."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Temario comun_pregunta149": {
+        "pregunta": "Al recabar datos las empresas, ¿nos podrán solicitar cualquier tipo de datos, sin que tenga que haber proporcionalidad entre lo recabado y el ﬁn de los mismos?",
+        "opciones": {
+            "A": "No, nunca es necesario.",
+            "B": "Solo será necesario con los menores por ser personas especialmente protegidas.",
+            "C": "Solo será necesario para solicitar datos especialmente protegidos.",
+            "D": "Siempre es necesario pues uno de los principio inspiradores.",
+            "E": "c y b son correctas."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Temario comun_pregunta150": {
+        "pregunta": "El Principio General de Consentimiento Informado, como principio garantista e inspirador será de aplicación en el ámbito de la salud en todo.",
+        "opciones": {
+            "A": "El Consentimiento Informado no es un principio inspirador en la LOPD, aunque si es garantista.",
+            "B": "EL Principio de Consentimiento Informado no se reﬂeja en la LOPD.",
+            "C": "El principio de Consentimiento Informado no es de aplicación en el ámbito de la salud.",
+            "D": "El Principio de Consentimiento informado tiene limitaciones en la legislación dentro del ámbito de la salud.",
+            "E": "Todas son falsas."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Temario comun_pregunta151": {
+        "pregunta": "Los derechos de los usuarios en protección de datos se denominan ARCO. Señala lo correcto",
+        "opciones": {
+            "A": "Los usuarios no tienen derecho en Protección de Datos.",
+            "B": "ARCO es el acrónimo de Acceso, Rectificación, Cancelación y Oposición; y son los derechos de los usuario en protección de datos.",
+            "C": "Los derechos de los usuarios se denominan de Acceso, Rectificación, Cancelación, habilitación y Oposición.",
+            "D": "Los denominados derechos ARCHO.",
+            "E": "Los derechos ARCO y ARCHO son similares."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Temario comun_pregunta152": {
+        "pregunta": "El tiempo de espera para ejercer entre dos derechos de Acceso por una misma persona es de 12 meses como normal general. Señala lo correcto",
+        "opciones": {
+            "A": "No existe tiempo límite para ejercer el derecho de Acceso.",
+            "B": "Sólo se puede ejercer una vez el derecho de Acceso.",
+            "C": "El tiempo es de 12 meses salvo interés legítimo del denunciante.",
+            "D": "No existe causa para que el plazo se acorte para ejercer dos derechos de acceso.",
+            "E": "Todas son falsas."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Temario comun_pregunta153": {
+        "pregunta": "Los datos referidos a la información penal son considerados especialmente protegidos. Señala lo correcto",
+        "opciones": {
+            "A": "La LOPD hace referencia a que la información penal por sus características precisan especial necesidad de protección.",
+            "B": "La LOPD no hace referencia a los datos de especial protección.",
+            "C": "Los datos de penados son datos sensibles pero que no precisan especial cuidado y protección.",
+            "D": "Todas son verdaderas.",
+            "E": "El trato de información sobre penados no son objeto de la LOPD."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Temario comun_pregunta154": {
+        "pregunta": "El derecho a la protección de datos no se recoge en la Constitución Española, El artículo 28 de la C.E. señala la protección de datos como derecho fundamental.",
+        "opciones": {
+            "A": "La Constitución Española no tiene en su articulado nada sobre protección de datos, por ello la dificultad de su aplicación.",
+            "B": "El artículo 18 de la Constitución española determina la protección de datos como normativa básica.",
+            "C": "Las respuestas a y c son correctas.",
+            "D": "El artículo 28 de la C.E. señala la protección de datos como derecho fundamental.",
+            "E": "Todas son falsas."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Temario comun_pregunta155": {
+        "pregunta": "El LPOD se promulgó el 15/1999. Señala lo correcto",
+        "opciones": {
+            "A": "Con fecha 15/1999 de promulgo.",
+            "B": "LOPD15/1999 fue la fecha de promulgación de RLOPD.",
+            "C": "Todas son ciertas.",
+            "D": "En la legislación española no existe la LOPD.",
+            "E": "Todas son falsas"
+        },
+        "respuesta_correcta": "A"
+    },
+    "Temario comun_pregunta156": {
+        "pregunta": "La IP de un ordenador es un dato a proteger. Señala lo correcto",
+        "opciones": {
+            "A": "Si, a sugerencia de la AEPD.",
+            "B": "No, salvo que sea de un ordenador privado.",
+            "C": "Si, si es de un ordenador privado, con ficheros privados.",
+            "D": "Si, si es de un ordenador conectado a redes privadas.",
+            "E": "La IP no es un dato a proteger nunca."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Temario comun_pregunta157": {
+        "pregunta": "La Protección de Datos viene recogida como derecho fundamental en el artículo 18 de la C.E. y encontramos norma europea que la sustenta. Señala la respuesta falsa.",
+        "opciones": {
+            "A": "En la Carta de los Derechos Fundamentales de la Unión Europea se protege el derecho de protección de datos.",
+            "B": "La Directiva 95/46/CE protege la protección de datos.",
+            "C": "Directivas del Consejo Europeo de 24 de octubre de 1995 protegen la protección de datos.",
+            "D": "a, b y son verdaderas.",
+            "E": "No encontramos normativa de protección de datos en la legislación europea, y por ello la dificultad de su tratamiento."
+        },
+        "respuesta_correcta": "E"
+    },
+    "Temario comun_pregunta158": {
+        "pregunta": "Un número de teléfono, ¿es un dato al amparo de la LOPD? Señala lo correcto",
+        "opciones": {
+            "A": "Sí, es un dato y como tal requiere protección.",
+            "B": "NO, nunca.",
+            "C": "No, salvo que esté asociado a un nombre, en cuyo caso si precisaría protección.",
+            "D": "c y d son ciertas.",
+            "E": "Todas son falsas."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Temario comun_pregunta159": {
+        "pregunta": "Las medidas de seguridad para la protección de los ficheros no tienen relación con los avances tecnológicos. Señala lo correcto",
+        "opciones": {
+            "A": "La LOPD no obliga a relacionar tecnología y protección de datos.",
+            "B": "Lo avances tecnológicos solo son aplicables en datos especialmente protegidos.",
+            "C": "A mayor sensibilidad de los datos, mayor nivel de tecnología en la protección.",
+            "D": "La LOPD no relaciona se tecnología con protección de datos, si la RLOPD.",
+            "E": "Todas son falsas"
+        },
+        "respuesta_correcta": "C"
+    },
+    "Temario comun_pregunta160": {
+        "pregunta": "¿Las organizaciones sindicales pueden tener ficheros con sus afiliados? Señala lo correcto",
+        "opciones": {
+            "A": "Los datos sindicales son de especial protección, pero pueden ser tomados por cualquier organización o empresa para su tratamiento si se tienen con las debidas medidas de seguridad.",
+            "B": "Solo las organizaciones sindicales pueden tener ficheros con sus miembros.",
+            "C": "La LOPD no hace referencias a datos de origen sindical.",
+            "D": "b y c son ciertas.",
+            "E": "b y c son falsas."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Temario comun_pregunta161": {
+        "pregunta": "Los datos sobre ideologías o sobre salud requieren niveles altos de seguridad. Señala lo correcto",
+        "opciones": {
+            "A": "Los datos sobre ideologías no pueden ser recabados.",
+            "B": "Los datos sobre ideologías no pueden ser tratados pero si recabados.",
+            "C": "Los datos sobre salud e ideologías se consideran datos de especial protección y por lo tanto almacenados con altos niveles de seguridad.",
+            "D": "a y b son ciertas.",
+            "E": "Los datos de salud no se almacenan con especial protección."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Temario comun_pregunta162": {
+        "pregunta": "Los niveles de seguridad son acumulativos. Señala lo verdadero",
+        "opciones": {
+            "A": "Los niveles de seguridad en la protección de datos son alto, bajo y medio.",
+            "B": "Los niveles de seguridad son acumulativos solo para niveles altos.",
+            "C": "La seguridad en los datos tiene que estar relacionado con los avances tecnológicos.",
+            "D": "a y c son ciertos.",
+            "E": "Todas son falsas."
+        },
+        "respuesta_correcta": "D"
+    },
+    "Temario comun_pregunta163": {
+        "pregunta": "¿El derecho de Acceso tiene un importe determinado anualmente por el BOE?. Señala lo correcto",
+        "opciones": {
+            "A": "El derecho de Acceso es gratuito siempre.",
+            "B": "El derecho de Acceso se determina por el BOE con incrementos del IPC.",
+            "C": "El derecho de Acceso se determina en Andalucía según lo indica su BOJA anualmente.",
+            "D": "b y c son ciertas.",
+            "E": "Todas son falsas."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Temario comun_pregunta164": {
+        "pregunta": "La norma LOPD desarrolla la protección de datos en el ámbito español. Señala lo correcto",
+        "opciones": {
+            "A": "Tiene ámbito nacional.",
+            "B": "Es una adaptación de la norma europea, no es norma española.",
+            "C": "Es una adaptación de la norma anglosajona, no es normativa española.",
+            "D": "b y c son ciertas.",
+            "E": "La LOPD no es una norma sobre protección de datos."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Temario comun_pregunta165": {
+        "pregunta": "La APD es un ente público con plena capacidad pública y privada que se alimenta de ingresos y medios económicos derivados de…..contesta la respuesta adecuada",
+        "opciones": {
+            "A": "El pago de ejecutar los derechos de acceso.",
+            "B": "El pago de ejecutar los derechos de acceso y los ingresos derivados de asignaciones de los Presupuestos Generales.",
+            "C": "El pago de ejecutar los derechos de acceso, los ingresos derivados de asignaciones de los Presupuestos Generales y las aportaciones privadas.",
+            "D": "Todas son falsas.",
+            "E": "b y c son ciertas."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Temario comun_pregunta166": {
+        "pregunta": "Son funciones de la APD……señala la correcta",
+        "opciones": {
+            "A": "Emitir autorizaciones previstas en la Ley dictar instrucciones para adecuar tratamientos a los principio de la ley.",
+            "B": "Proporcionar a las personas información sobre sus derechos en materia de protección de datos.",
+            "C": "a,b y c son correctas.",
+            "D": "todas son falsas."
+        },
+        "respuesta_correcta": "C"
+    },
+    "Temario comun_pregunta167": {
+        "pregunta": "¿La potestad sancionadora de la APD se enmarca en el título? . Señala la correcta",
+        "opciones": {
+            "A": "Título VII.",
+            "B": "Título II.",
+            "C": "La APD no tiene potestad sancionadora.",
+            "D": "Título VIII.",
+            "E": "Título VI y Disposición Transitoria."
+        },
+        "respuesta_correcta": "A"
+    },
+    "Temario comun_pregunta168": {
+        "pregunta": "¿Tienen potestad las corporaciones locales para la creación de sus propios registros? Señala la falsa",
+        "opciones": {
+            "A": "Si siempre que el estado no lo haya hecho y en especial los relacionados con el régimen de penados.",
+            "B": "No nunca, lo prohíbe expresamente la LOPD.",
+            "C": "Si, y se definen en su articulado 46 y 47.",
+            "D": "Título VII de las comunidades autónomas.",
+            "E": "Son falsas la a,b, y d."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Temario comun_pregunta169": {
+        "pregunta": "La protección de los datos de carácter personal no será materia en la LOPD en los casos de….señala la correcta",
+        "opciones": {
+            "A": "terrorismo.",
+            "B": "delincuencia organizada.",
+            "C": "ficheros de personas físicas en el ejercicio de actividades domésticas.",
+            "D": "b y c son ciertas.",
+            "E": "a,b, y c son ciertas."
+        },
+        "respuesta_correcta": "E"
+    },
+    "Temario comun_pregunta170": {
+        "pregunta": "Cuando hablamos de la persona física titular de los datos que sean objeto del tratamiento, estamos definiendo a …señala la correcta",
+        "opciones": {
+            "A": "Encargado del tratamiento.",
+            "B": "Responsable del fichero.",
+            "C": "disociación.",
+            "D": "todas son ciertas.",
+            "E": "a y b son ciertas."
+        },
+        "respuesta_correcta": "B"
+    },
+    "Temario comun_pregunta171": {
+        "pregunta": "Los datos podrán ser rectificados si…..señala lo correcto",
+        "opciones": {
+            "A": "Si resultaran inexactos.",
+            "B": "Si resultaran incompletos.",
+            "C": "Si resultara falsos.",
+            "D": "a y b son correctas.",
+            "E": "Todas son correctas."
+        },
+        "respuesta_correcta": "E"
+    },
+"Temario comun_pregunta172": {
+    "pregunta": "El personal ante un riesgo laboral grave e inminente para su salud, debe",
+    "opciones": {
+        "A": "Tomar las medidas de seguridad pertinentes.",
+        "B": "Abandonar las dependencias donde exista el riesgo.",
+        "C": "Comunicarlo a su superior jerárquico.",
+        "D": "Tratar de evitar el riesgo junto a sus compañeros de trabajo.",
+        "E": "No tienen que comunicarlo a la Autoridad Laboral."
+    },
+    "respuesta_correcta": "B"
+},
+"Temario comun_pregunta173": {
+    "pregunta": "¿Cómo se denominan al representante de los trabajadores en materia de prevención de riesgos laborales?",
+    "opciones": {
+        "A": "Preventivista.",
+        "B": "Delegado de riesgos laborales.",
+        "C": "Delegado de protección.",
+        "D": "Delegado de prevención.",
+        "E": "Delegado de seguridad y salud."
+    },
+    "respuesta_correcta": "D"
+},
+"Temario comun_pregunta174": {
+    "pregunta": "¿Cómo se llama el órgano paritario y colegiado de participación de la empresa y trabajadores en materia de prevención de riesgos laborales?",
+    "opciones": {
+        "A": "Comité de Salud Laboral.",
+        "B": "Comité de Seguridad y Salud Laboral.",
+        "C": "Comité de Seguridad y Salud.",
+        "D": "Comité de Prevención de Riesgos Laborales.",
+        "E": "Comité de Seguridad e Higiene."
+    },
+    "respuesta_correcta": "C"
+},
+"Temario comun_pregunta175": {
+    "pregunta": "¿Cuál de las siguientes funciones no es propia del órgano a que se hace referencia en la pregunta anterior?",
+    "opciones": {
+        "A": "Recibir información sobre temas relacionados con la prevención de riesgo.",
+        "B": "Conocer los daños producidos en la salud e integridad de los trabajadores.",
+        "C": "Tener conocimiento de los resultados de la vigilancia de salud realizada a los trabajadores de la empresa.",
+        "D": "Analizar los daños producidos en la salud e integridad de los trabajadores.",
+        "E": "Promover iniciativas de prevención y mejoras de las condiciones de trabajo."
+    },
+    "respuesta_correcta": "C"
+},
+"Temario comun_pregunta176": {
+    "pregunta": "Las Unidades de Prevención de Riesgos Laborales, dependen directamente de:",
+    "opciones": {
+        "A": "Dirección General y Desarrollo Profesional del Servicio Andaluz de Salud.",
+        "B": "Dirección Gerencia de Hospitales y Distritos de Atención Primaria.",
+        "C": "Jefe de Servicio/o Sección de Medicina Preventiva.",
+        "D": "Dirección de Servicios Generales de Hospitales y Distritos de Atención Primaria.",
+        "E": "Unidad de Coordinación de Prevención."
+    },
+    "respuesta_correcta": "B"
+},
+"Temario comun_pregunta177": {
+    "pregunta": "Las Unidades de Prevención de Riesgos Laborales se clasifican en los siguientes niveles:",
+    "opciones": {
+        "A": "Tres.",
+        "B": "Cinco.",
+        "C": "De Hospitales y Distritos de Atención Primaria.",
+        "D": "Cuatro.",
+        "E": "Ninguno."
+    },
+    "respuesta_correcta": "A"
+},
+"Temario comun_pregunta178": {
+    "pregunta": "¿Cómo se denomina la Unidad Central del Servicio Andaluz de Salud en materia de prevención de riesgos laborales?",
+    "opciones": {
+        "A": "Unidad Central de Prevención de Riesgos Laborales.",
+        "B": "Unidad de Gestión de Prevención de Riesgos Laborales.",
+        "C": "Unidad General de Prevención de Riesgos Laborales.",
+        "D": "Unidad de Coordinación de Prevención de Riesgos Laborales.",
+        "E": "Unidad de Coordinación de Unidades de Prevención."
+    },
+    "respuesta_correcta": "D"
+},
+"Temario comun_pregunta179": {
+    "pregunta": "¿De quién depende la Unidad a que se hace mención en la pregunta anterior?",
+    "opciones": {
+        "A": "Dirección General de Personal y Desarrollo Profesional.",
+        "B": "Dirección General de Asistencia Sanitaria del Servicio Andaluz de Salud.",
+        "C": "Dirección General de Prevención de Riesgos Laborales.",
+        "D": "Dirección Gerencia del Servicio Andaluz de Salud.",
+        "E": "Dirección General de Evaluación Técnica de Prevención de Riesgos Laborales."
+    },
+    "respuesta_correcta": "A"
+},
+"Temario comun_pregunta180": {
+    "pregunta": "En relación a la revisión y vigilancia de la salud de los trabajadores, ¿cuál de las siguientes afirmaciones no es verdadera?",
+    "opciones": {
+        "A": "Debe dar siempre el consentimiento.",
+        "B": "Debe dar el consentimiento salvo en algunas excepciones.",
+        "C": "La revisión sólo debe realizarse sobre aspectos relacionados con el trabajo.",
+        "D": "Deben ser periódicas.",
+        "E": "Las pruebas deberá causar las mínimas molestias al trabajador y proporcionales al riesgo."
+    },
+    "respuesta_correcta": "A"
+},
+"Temario comun_pregunta181": {
+    "pregunta": "Los empresarios deben garantizar especialmente la protección a los siguientes colectivos",
+    "opciones": {
+        "A": "Trabajadores que por sus propias características sean especialmente sensibles a los riesgos inherentes al trabajo.",
+        "B": "Menores.",
+        "C": "Mujeres en situación de incapacidad temporal.",
+        "D": "Mujeres embarazadas.",
+        "E": "Discapacitados físicos, psíquicos o sensoriales."
+    },
+    "respuesta_correcta": "A"
+},
+"Temario comun_pregunta182": {
+    "pregunta": "¿Cuál de los siguientes organismos no tiene competencias en materia de prevención de riesgos laborales?",
+    "opciones": {
+        "A": "Inspección de Seguridad e Higiene en el Trabajo.",
+        "B": "Inspección de Trabajo.",
+        "C": "Unidad de Prevención de Riesgos Laborales.",
+        "D": "Dirección Gerencia del Hospital.",
+        "E": "Unidad de Coordinación de Riesgos Laborales del Servicio Andaluz de Salud."
+    },
+    "respuesta_correcta": "A"
+},
+"Temario comun_pregunta183": {
+    "pregunta": "La Ley de Prevención de Riesgos Laborales tiene:",
+    "opciones": {
+        "A": "4 capítulos.",
+        "B": "16 capítulos.",
+        "C": "7 capítulos.",
+        "D": "24 capítulos.",
+        "E": "8 capítulos."
+    },
+    "respuesta_correcta": "C"
+},
+"Temario comun_pregunta184": {
+    "pregunta": "La Ley de Prevención de Riesgos Laborales tiene como novedad:",
+    "opciones": {
+        "A": "Promover la seguridad y salud a todos los trabajadores vinculados por una relación laboral o estatutaria.",
+        "B": "Una política de recuperación e indemnización de daños.",
+        "C": "El poder de decisión recae en el empresario.",
+        "D": "La asistencia obligatoria a los cursos de formación.",
+        "E": "Ninguna de las anteriores es cierta."
+    },
+    "respuesta_correcta": "A"
+},
+"Temario comun_pregunta185": {
+    "pregunta": "Las Unidades de Prevención del nivel II tienen las siguientes especialidades:",
+    "opciones": {
+        "A": "Técnico Superior de Seguridad y Medicina del Trabajo.",
+        "B": "Técnico Superior de Seguridad e Higiene Industrial.",
+        "C": "Técnico Superior de Seguridad, Higiene Industrial, Ergonomía y Psicosociología.",
+        "D": "Técnico Superior de Seguridad y Vigilancia de la Salud.",
+        "E": "Técnico Superior de Higiene y Medicina Preventiva."
+    },
+    "respuesta_correcta": "B"
+},
+"Temario comun_pregunta172": {
+    "pregunta": "El personal ante un riesgo laboral grave e inminente para su salud, debe",
+    "opciones": {
+        "A": "Tomar las medidas de seguridad pertinentes.",
+        "B": "Abandonar las dependencias donde exista el riesgo.",
+        "C": "Comunicarlo a su superior jerárquico.",
+        "D": "Tratar de evitar el riesgo junto a sus compañeros de trabajo.",
+        "E": "No tienen que comunicarlo a la Autoridad Laboral."
+    },
+    "respuesta_correcta": "B"
+},
+"Temario comun_pregunta173": {
+    "pregunta": "¿Cómo se denominan al representante de los trabajadores en materia de prevención de riesgos laborales?",
+    "opciones": {
+        "A": "Preventivista.",
+        "B": "Delegado de riesgos laborales.",
+        "C": "Delegado de protección.",
+        "D": "Delegado de prevención.",
+        "E": "Delegado de seguridad y salud."
+    },
+    "respuesta_correcta": "D"
+},
+"Temario comun_pregunta174": {
+    "pregunta": "¿Cómo se llama el órgano paritario y colegiado de participación de la empresa y trabajadores en materia de prevención de riesgos laborales?",
+    "opciones": {
+        "A": "Comité de Salud Laboral.",
+        "B": "Comité de Seguridad y Salud Laboral.",
+        "C": "Comité de Seguridad y Salud.",
+        "D": "Comité de Prevención de Riesgos Laborales.",
+        "E": "Comité de Seguridad e Higiene."
+    },
+    "respuesta_correcta": "C"
+},
+"Temario comun_pregunta175": {
+    "pregunta": "¿Cuál de las siguientes funciones no es propia del órgano a que se hace referencia en la pregunta anterior?",
+    "opciones": {
+        "A": "Recibir información sobre temas relacionados con la prevención de riesgo.",
+        "B": "Conocer los daños producidos en la salud e integridad de los trabajadores.",
+        "C": "Tener conocimiento de los resultados de la vigilancia de salud realizada a los trabajadores de la empresa.",
+        "D": "Analizar los daños producidos en la salud e integridad de los trabajadores.",
+        "E": "Promover iniciativas de prevención y mejoras de las condiciones de trabajo."
+    },
+    "respuesta_correcta": "C"
+},
+"Temario comun_pregunta176": {
+    "pregunta": "Las Unidades de Prevención de Riesgos Laborales, dependen directamente de:",
+    "opciones": {
+        "A": "Dirección General y Desarrollo Profesional del Servicio Andaluz de Salud.",
+        "B": "Dirección Gerencia de Hospitales y Distritos de Atención Primaria.",
+        "C": "Jefe de Servicio/o Sección de Medicina Preventiva.",
+        "D": "Dirección de Servicios Generales de Hospitales y Distritos de Atención Primaria.",
+        "E": "Unidad de Coordinación de Prevención."
+    },
+    "respuesta_correcta": "B"
+},
+"Temario comun_pregunta177": {
+    "pregunta": "Las Unidades de Prevención de Riesgos Laborales se clasifican en los siguientes niveles:",
+    "opciones": {
+        "A": "Tres.",
+        "B": "Cinco.",
+        "C": "De Hospitales y Distritos de Atención Primaria.",
+        "D": "Cuatro.",
+        "E": "Ninguno."
+    },
+    "respuesta_correcta": "A"
+},
+"Temario comun_pregunta178": {
+    "pregunta": "¿Cómo se denomina la Unidad Central del Servicio Andaluz de Salud en materia de prevención de riesgos laborales?",
+    "opciones": {
+        "A": "Unidad Central de Prevención de Riesgos Laborales.",
+        "B": "Unidad de Gestión de Prevención de Riesgos Laborales.",
+        "C": "Unidad General de Prevención de Riesgos Laborales.",
+        "D": "Unidad de Coordinación de Prevención de Riesgos Laborales.",
+        "E": "Unidad de Coordinación de Unidades de Prevención."
+    },
+    "respuesta_correcta": "D"
+},
+"Temario comun_pregunta179": {
+    "pregunta": "¿De quién depende la Unidad a que se hace mención en la pregunta anterior?",
+    "opciones": {
+        "A": "Dirección General de Personal y Desarrollo Profesional.",
+        "B": "Dirección General de Asistencia Sanitaria del Servicio Andaluz de Salud.",
+        "C": "Dirección General de Prevención de Riesgos Laborales.",
+        "D": "Dirección Gerencia del Servicio Andaluz de Salud.",
+        "E": "Dirección General de Evaluación Técnica de Prevención de Riesgos Laborales."
+    },
+    "respuesta_correcta": "A"
+},
+"Temario comun_pregunta180": {
+    "pregunta": "En relación a la revisión y vigilancia de la salud de los trabajadores, ¿cuál de las siguientes afirmaciones no es verdadera?",
+    "opciones": {
+        "A": "Debe dar siempre el consentimiento.",
+        "B": "Debe dar el consentimiento salvo en algunas excepciones.",
+        "C": "La revisión sólo debe realizarse sobre aspectos relacionados con el trabajo.",
+        "D": "Deben ser periódicas.",
+        "E": "Las pruebas deberá causar las mínimas molestias al trabajador y proporcionales al riesgo."
+    },
+    "respuesta_correcta": "A"
+},
+"Temario comun_pregunta181": {
+    "pregunta": "Los empresarios deben garantizar especialmente la protección a los siguientes colectivos:",
+    "opciones": {
+        "A": "Trabajadores que por sus propias características sean especialmente sensibles a los riesgos inherentes al trabajo.",
+        "B": "Menores.",
+        "C": "Mujeres en situación de incapacidad temporal.",
+        "D": "Mujeres embarazadas.",
+        "E": "Discapacitados físicos, psíquicos o sensoriales."
+    },
+    "respuesta_correcta": "A"
+},
+"Temario comun_pregunta182": {
+    "pregunta": "¿Cuál de los siguientes organismos no tiene competencias en materia de prevención de riesgos laborales?",
+    "opciones": {
+        "A": "Inspección de Seguridad e Higiene en el Trabajo.",
+        "B": "Inspección de Trabajo.",
+        "C": "Unidad de Prevención de Riesgos Laborales.",
+        "D": "Dirección Gerencia del Hospital.",
+        "E": "Unidad de Coordinación de Riesgos Laborales del Servicio Andaluz de Salud."
+    },
+    "respuesta_correcta": "A"
+},
+"Temario comun_pregunta183": {
+    "pregunta": "La Ley de Prevención de Riesgos Laborales tiene:",
+    "opciones": {
+        "A": "4 capítulos.",
+        "B": "16 capítulos.",
+        "C": "7 capítulos.",
+        "D": "24 capítulos.",
+        "E": "8 capítulos."
+    },
+    "respuesta_correcta": "C"
+},
+"Temario comun_pregunta184": {
+    "pregunta": "La Ley de Prevención de Riesgos Laborales tiene como novedad:",
+    "opciones": {
+        "A": "Promover la seguridad y salud a todos los trabajadores vinculados por una relación laboral o estatutaria.",
+        "B": "Una política de recuperación e indemnización de daños.",
+        "C": "El poder de decisión recae en el empresario.",
+        "D": "La asistencia obligatoria a los cursos de formación.",
+        "E": "Ninguna de las anteriores es cierta."
+    },
+    "respuesta_correcta": "A"
+},
+"Temario comun_pregunta185": {
+    "pregunta": "Las Unidades de Prevención del nivel II tienen las siguientes especialidades:",
+    "opciones": {
+        "A": "Técnico Superior de Seguridad y Medicina del Trabajo.",
+        "B": "Técnico Superior de Seguridad e Higiene Industrial.",
+        "C": "Técnico Superior de Seguridad, Higiene Industrial, Ergonomía y Psicosociología.",
+        "D": "Técnico Superior de Seguridad y Vigilancia de la Salud.",
+        "E": "Técnico Superior de Higiene y Medicina Preventiva."
+    },
+    "respuesta_correcta": "B"
+},
+"Temario comun_pregunta186": {
+    "pregunta": "La organización de la prevención de Riesgos Laborales en el Servicio Andaluz de Salud se denomina:",
+    "opciones": {
+        "A": "Técnicos de Prevención de Riesgos Laborales.",
+        "B": "Servicio de Medicina Preventiva.",
+        "C": "Unidades de Prevención.",
+        "D": "Servicio de Prevención.",
+        "E": "Centro de Prevención de Riesgos Laborales."
+    },
+    "respuesta_correcta": "C"
+},
+"Temario comun_pregunta187": {
+    "pregunta": "Se creará un Servicio de Prevención Propio:",
+    "opciones": {
+        "A": "Cuando la empresa tenga más de 500 trabajadores.",
+        "B": "Cuando el empresario tenga conocimientos en materia de seguridad y salud.",
+        "C": "Porque así lo acuerde la voluntad empresarial.",
+        "D": "Ninguna es correcta.",
+        "E": "Cuando tenga el voto favorable del Comité de Seguridad y Salud."
+    },
+    "respuesta_correcta": "A"
+},
+"Temario comun_pregunta188": {
+    "pregunta": "El trabajador tiene derecho a:",
+    "opciones": {
+        "A": "A ser informado de los riesgos propios de su puesto de trabajo.",
+        "B": "Participar y ser consultados.",
+        "C": "Formación teórica y práctica, en materia preventiva.",
+        "D": "Todas son correctas.",
+        "E": "A adaptar su puesto de trabajo por lesiones."
+    },
+    "respuesta_correcta": "C"
+},
+"Temario comun_pregunta189": {
+    "pregunta": "La Orden 11 de marzo de 2004",
+    "opciones": {
+        "A": "Los Servicios de Prevención para el personal de la Junta de Andalucía.",
+        "B": "Las Unidades de Prevención en los Centros Asistenciales del Servicio Andaluz de Salud.",
+        "C": "El Reglamento de los Servicios de Prevención.",
+        "D": "El Servicio de Vigilancia de la Salud.",
+        "E": "El departamento de Medicina Preventiva."
+    },
+    "respuesta_correcta": "B"
+},
+"Temario comun_pregunta190": {
+    "pregunta": "La Unidad de Prevención asume la vigilancia de la salud en el nivel:",
+    "opciones": {
+        "A": "1.",
+        "B": "2.",
+        "C": "3.",
+        "D": "La 1, 2 y 3 son correctas.",
+        "E": "La Unidad de Prevención no asume la vigilancia de la salud."
+    },
+    "respuesta_correcta": "A"
+},
+"Temario comun_pregunta191": {
+    "pregunta": "¿Qué es el riesgo biológico?",
+    "opciones": {
+        "A": "Los microorganismos, con inclusión de los genéticamente modificados, cultivos celulares y endoparásitos humanos, susceptibles de originar cualquier tipo de infección, alergia, toxicidad.",
+        "B": "La posibilidad de sufrir un determinado daño a la salud derivado de la exposición a agentes biológicos en el trabajo.",
+        "C": "Es la presencia de estos en el entorno laboral.",
+        "D": "Es la inoculación o contacto accidental de piel o mucosas, con sangre, tejidos u otros fluidos corporales potencialmente contaminados por agentes biológicos, que el trabajo que desempeña su tarea en la actividad de asistencia sanitaria sufra con ocasión o por consecuencia del trabajo.",
+        "E": "Todas las respuestas anteriores son correctas."
+    },
+    "respuesta_correcta": "B"
+},
+"Temario comun_pregunta192": {
+    "pregunta": "¿Qué significa la sigla LOPD?",
+    "opciones": {
+        "A": "Ley de Ordenación de la Prevención de Riesgos.",
+        "B": "Ley Orgánica de Protección de Datos.",
+        "C": "Ley de Ordenación de la Protección de Datos.",
+        "D": "Ley Orgánica de Prevención de Riesgos.",
+        "E": "Ley de Prevención de Datos."
+    },
+    "respuesta_correcta": "D"
+},
+"Temario comun_pregunta193": {
+    "pregunta": "¿Qué medida se aplica ante la notificación de un accidente de trabajo?",
+    "opciones": {
+        "A": "Análisis del accidente y determinación de causas.",
+        "B": "Revisión de los equipos de trabajo.",
+        "C": "Inmediata inspección de la zona del accidente.",
+        "D": "Tener en cuenta los daños y los primeros auxilios.",
+        "E": "Las anteriores son correctas."
+    },
+    "respuesta_correcta": "D"
+},
+"Temario comun_pregunta194": {
+    "pregunta": "¿Cuál es la función principal de la Inspección de Trabajo?",
+    "opciones": {
+        "A": "Controlar la contratación.",
+        "B": "Garantizar el cumplimiento de la normativa sobre seguridad y salud en el trabajo.",
+        "C": "Fiscalizar las actividades empresariales.",
+        "D": "Todas son correctas.",
+        "E": "El control de los trabajadores."
+    },
+    "respuesta_correcta": "A"
+},
+"Temario comun_pregunta195": {
+    "pregunta": "Las medidas preventivas a adoptar en un centro de trabajo deben basarse en:",
+    "opciones": {
+        "A": "La organización del trabajo.",
+        "B": "La peligrosidad de los agentes en el entorno.",
+        "C": "La eliminación de riesgos en origen.",
+        "D": "La minimización de los riesgos.",
+        "E": "Todas son correctas."
+    },
+    "respuesta_correcta": "C"
+},
+"Temario comun_pregunta196": {
+    "pregunta": "El trabajador tiene derecho a:",
+    "opciones": {
+        "A": "Recibir formación en prevención de riesgos laborales.",
+        "B": "Denunciar la empresa por la inexistencia de medidas de seguridad.",
+        "C": "Exigir que el equipo de protección personal sea adecuado.",
+        "D": "Exigir que el trabajo sea adaptado a sus necesidades físicas.",
+        "E": "Todas las anteriores."
+    },
+    "respuesta_correcta": "D"
+},
+
+"Temario comun_pregunta197": {
+    "pregunta": "Señale la respuesta INCORRECTA acerca de la Ley 12/2007 de Promoción de la Igualdad de Género de Andalucía",
+    "opciones": {
+        "A": "Su objeto es hacer efectivo el derecho de igualdad de trato y oportunidades entre hombres y mujeres.",
+        "B": "Se desarrolla en virtud del artículo 16 del Estatuto de Autonomía de Andalucía.",
+        "C": "Su ámbito de aplicación territorial es la Comunidad autónoma andaluza.",
+        "D": "En su ámbito de aplicación se incluye el sistema universitario andaluz.",
+        "E": "Se desarrolla en virtud del Artículo 9.2 y 14 de la Constitución y 15 y 38 del Estatuto de Autonomía de Andalucía."
+    },
+    "respuesta_correcta": "B"
+},
+"Temario comun_pregunta198": {
+    "pregunta": "Todos los siguientes son principios generales de la Ley de Promoción de la igualdad de Género de Andalucía EXCEPTO",
+    "opciones": {
+        "A": "Igualdad de trato entre hombres y mujeres.",
+        "B": "Medidas para eliminar la feminización de la pobreza.",
+        "C": "Promoción de las mujeres en el medio rural.",
+        "D": "Garantizar el acceso a ayudas económicas de mujeres víctimas de violencia de género.",
+        "E": "Medidas para eliminar el lenguaje sexista."
+    },
+    "respuesta_correcta": "D"
+},
+"Temario comun_pregunta199": {
+    "pregunta": "Respecto a las políticas públicas para la promoción de la igualdad de género recogidas en la Ley 12/2007 de promoción de igualdad de género de Andalucía señale la respuesta CORRECTA:",
+    "opciones": {
+        "A": "Se recogen en 25 artículos.",
+        "B": "El plan estratégico para la igualdad de mujeres y hombres que se describe en el artículo 7 no se ha aprobado aún.",
+        "C": "En uno de ellos se recoge que habrá enfoque de género en el presupuesto.",
+        "D": "No se contempla la transversalidad de género.",
+        "E": "La representación equilibrada de los órganos directivos y colegiados no es objeto de estas políticas públicas."
+    },
+    "respuesta_correcta": "C"
+},
+"Temario comun_pregunta200": {
+    "pregunta": "En la definición de VIOLENCIA de GÉNERO recogida en el art. 3 de la ley 13/2007 de prevención y protección integral contra la violencia de género de Andalucía, son ciertas TODAS las siguientes afirmaciones EXCEPTO",
+    "opciones": {
+        "A": "Es aquella que como manifestación de la discriminación, la situación de desigualdad y las relaciones de poder de los hombres sobre las mujeres, se ejerce sobre estas por el hecho de serlo.",
+        "B": "Comprende cualquier acto de violencia basada en género que tenga como consecuencia perjuicio o sufrimiento en la salud física, sexual o psicológica de la mujer.",
+        "C": "Se incluye como violencia de género las amenazas de actos de violencia, coerción o privaciones arbitrarias de la libertad de la mujer.",
+        "D": "Los actos de violencia definidos en esta Ley sólo se referirán a los producidos en el ámbito de la vida privada.",
+        "E": "A los efectos de esta Ley se incluye la violencia económica en los términos definidos en este artículo."
+    },
+    "respuesta_correcta": "D"
+},
+"Temario comun_pregunta201": {
+    "pregunta": "La ley 13/2007 de prevención y protección integral contra la violencia de género de Andalucía tiene como ÁMBITO de aplicación:",
+    "opciones": {
+        "A": "En el ámbito territorial toda la Comunidad Autónoma andaluza.",
+        "B": "Las actuaciones de los poderes públicos sujetos a leyes de la Comunidad Autónoma andaluza.",
+        "C": "Todas las mujeres que se encuentran en el territorio andaluz.",
+        "D": "Todas son correctas.",
+        "E": "Ninguna es correcta."
+    },
+    "respuesta_correcta": "D"
+},
+"Temario comun_pregunta202": {
+    "pregunta": "Son principios rectores de la Ley 13/2007 de Prevención y protección integral de la violencia de género de Andalucía, todos los siguientes EXCEPTO",
+    "opciones": {
+        "A": "Desarrollar y aplicar políticas y acciones con un enfoque multidisciplinar.",
+        "B": "Integrar el objetivo de la erradicación de la violencia en las políticas públicas.",
+        "C": "Fortalecer acciones de sensibilización, formación e información.",
+        "D": "Garantizar el acceso a las ayudas económicas que se prevean para las mujeres víctimas de violencia de género.",
+        "E": "Fomento de la participación equilibrada en los órganos de representación y de toma de decisiones."
+    },
+    "respuesta_correcta": "E"
+},
+"Temario comun_pregunta203": {
+    "pregunta": "Respecto a los siguientes conceptos en materia de igualdad de género, señale la afirmación INCORRECTA",
+    "opciones": {
+        "A": "Impacto de género: Resultado de una actuación comparando el efecto sobre mujeres y sobre hombres.",
+        "B": "Igualdad de trato: La ausencia de toda discriminación directa o indirecta por razón de sexo.",
+        "C": "Discriminación indirecta: Resultados desfavorables para las mujeres en una intervención aparentemente neutra.",
+        "D": "Acción positiva: Medidas específicas a favor de las mujeres para corregir situaciones patentes de desigualdad de hecho respecto a los hombres.",
+        "E": "Género: Condición orgánica, biológicamente identificable, que diferencia a los seres animados en machos y hembras."
+    },
+    "respuesta_correcta": "E"
+},
+"Temario comun_pregunta204": {
+    "pregunta": "Respecto a los principios y actuaciones que se derivan de la Ley 12/2007 para la promoción de la igualdad de género en Andalucía, señale la afirmación CORRECTA",
+    "opciones": {
+        "A": "El principio de igualdad de trato y oportunidades es transversal en la actuación de todos los poderes públicos.",
+        "B": "La desagregación de datos por sexo sólo afecta a la información sobre empleo.",
+        "C": "El uso del lenguaje no sexista solo afecta a la administración pública.",
+        "D": "La representación equilibrada de hombres y mujeres se refiere sólo a los órganos de representación.",
+        "E": "El concepto de coeducación no es materia de esta Ley."
+    },
+    "respuesta_correcta": "A"
+},
+"Temario comun_pregunta205": {
+    "pregunta": "Según la Ley 12/2007 de promoción de la igualdad de género en Andalucía, la situación en la que se encuentra una persona que sea, haya sido o pudiera ser tratada, en atención a su sexo, de manera menos favorable que otra en equiparable situación se denomina:",
+    "opciones": {
+        "A": "Discriminación indirecta por razón de sexo.",
+        "B": "Acoso sexual.",
+        "C": "Discriminación directa por razón de sexo.",
+        "D": "Transversalidad.",
+        "E": "Acoso por razón de sexo."
+    },
+    "respuesta_correcta": "C"
+},
+"Temario comun_pregunta206": {
+    "pregunta": "Con respecto a la formación de los profesionales de la salud en materia de violencia de género, recogida en la Ley 13/2007 de prevención y protección integral contra la violencia de género de Andalucía, TODAS las siguientes afirmaciones son correctas EXCEPTO",
+    "opciones": {
+        "A": "Los Planes y Programas de Salud deberán incluir la formación del personal del Sistema Sanitario Público andaluz.",
+        "B": "Se debe abordar la detección precoz de los casos.",
+        "C": "La formación se dirigirá prioritariamente a los servicios de Atención primaria y especializada.",
+        "D": "No se contempla la rehabilitación de las mujeres víctimas de violencia.",
+        "E": "Se debe abordar los efectos en salud."
+    },
+    "respuesta_correcta": "D"
+},
+"Temario comun_pregunta207": {
+    "pregunta": "En la Ley 13/2007 de prevención y protección integral contra la violencia de género se establecen una serie de actuaciones en el ámbito de la salud. Señale la afirmación INCORRECTA",
+    "opciones": {
+        "A": "Los protocolos de actuación deben mantener pautas uniformes de actuación sanitaria solo en el ámbito público.",
+        "B": "El Plan Andaluz de Salud establecerá medidas específicas para los casos de violencia de género.",
+        "C": "La Consejería competente en Salud establecerá programas de detección precoz de casos de violencia de género.",
+        "D": "El Sistema Sanitario Público de Andalucía prestará especial atención a la salud mental de las mujeres víctimas de violencia.",
+        "E": "Las mujeres víctimas de violencia tienen derecho a una atención y asistencia sanitaria especializada."
+    },
+    "respuesta_correcta": "A"
+},
+"Temario comun_pregunta208": {
+    "pregunta": "Respecto a la legislación en materia de igualdad de oportunidades entre mujeres y hombres, señale la respuesta FALSA",
+    "opciones": {
+        "A": "El 26 de Noviembre de 2007 se aprobó la ley 12/2007 para la promoción de la igualdad de género en Andalucía.",
+        "B": "En la Unión Europea existen numerosas directivas, recomendaciones y resoluciones relativas a la igualdad de trato y oportunidades entre hombres y mujeres.",
+        "C": "En la Constitución española no se recoge en su articulado referencia a la discriminación por razón de sexo.",
+        "D": "La Ley Orgánica 3/2007 de 22 de marzo para la igualdad efectiva entre hombres y mujeres, constituye el marco de desarrollo del principio de igualdad de trato en nuestro país.",
+        "E": "El Estatuto de Autonomía para Andalucía recoge un fuerte compromiso con la igualdad de oportunidades."
+    },
+    "respuesta_correcta": "C"
+},
+"Temario comun_pregunta209": {
+    "pregunta": "En materia de igualdad de género, respecto al concepto 'igualdad de trato', señale la respuesta INCORRECTA",
+    "opciones": {
+        "A": "Su definición viene recogida en el art.4.1 de la Ley 12/2007 para la promoción de la igualdad de Andalucía.",
+        "B": "Supone la ausencia de toda discriminación directa o indirecta por razón de sexo.",
+        "C": "Viene referido a los ámbitos económico, político, social, laboral, cultural y educativo.",
+        "D": "En particular viene referido al empleo, a la formación profesional y a las condiciones de trabajo.",
+        "E": "Es un instrumento para integrar la perspectiva de género en las políticas y acciones públicas."
+    },
+    "respuesta_correcta": "E"
+},
+"Temario comun_pregunta210": {
+    "pregunta": "Respecto al objeto de la Ley 13/2007 de prevención y protección integral contra la violencia de género en Andalucía, todas las afirmaciones son correctas EXCEPTO",
+    "opciones": {
+        "A": "Se recoge en el art.24 de la Ley 13/2007.",
+        "B": "Pretende actuar contra la violencia que se ejerce sobre las mujeres por el sólo hecho de serlo.",
+        "C": "Se incluyen las actuaciones de prevención y protección integral de las mujeres víctimas de violencia.",
+        "D": "Se incluyen actuaciones de detección, atención y recuperación de las mujeres víctimas de violencia.",
+        "E": "Se recoge en el art.1 de la Ley 13/2007."
+    },
+    "respuesta_correcta": "A"
+},
+"Temario comun_pregunta211": {
+    "pregunta": "Con respecto a las políticas públicas para la promoción de la igualdad de género en Andalucía recogidas en la Ley 12/2007, señale la respuesta INCORRECTA",
+    "opciones": {
+        "A": "Los poderes públicos de Andalucía incorporarán la evaluación de impacto de género en el desarrollo de sus competencias.",
+        "B": "El Plan estratégico para la igualdad de mujeres y hombres se aprobará cada cuatro años.",
+        "C": "La administración de la Junta de Andalucía garantizará un uso no sexista del lenguaje.",
+        "D": "El Consejo de Gobierno aprobará cada cinco años un plan integral de sensibilización y prevención contra la violencia de género en Andalucía.",
+        "E": "Se incluirá la variable sexo en las estadísticas, encuestas y recogida de datos que realicen los poderes públicos de Andalucía."
+    },
+    "respuesta_correcta": "D"
+},
+"Temario comun_pregunta212": {
+    "pregunta": "La ley 13/2007 de prevención y protección integral contra la violencia de género de Andalucía establece unos fines y principios de los poderes públicos en Andalucía para conseguir la erradicación de la violencia de género. Respecto a los mismos señale la respuesta INCORRECTA",
+    "opciones": {
+        "A": "Vienen determinados en el art.4 de la ley 13/2007 de prevención y protección integral contra la violencia de género de Andalucía.",
+        "B": "Establecen la maternidad biológica o no biológica como un valor social.",
+        "C": "Realizan un enfoque multidisciplinar.",
+        "D": "Fortalecen las medidas de sensibilización, formación e información.",
+        "E": "Promueven la cooperación y participación de las entidades, instituciones, asociaciones de mujeres, agentes sociales y organizaciones sindicales."
+    },
+    "respuesta_correcta": "B"
+},
+"Temario comun_pregunta213": {
+    "pregunta": "Señale la respuesta INCORRECTA respecto a las siguientes afirmaciones relativas a la violencia de género",
+    "opciones": {
+        "A": "La violencia de género supone la manifestación extrema de desigualdad y del sometimiento de una mujer por parte de un hombre.",
+        "B": "El Estatuto de Autonomía de Andalucía no establece ninguna referencia a la protección integral de las víctimas de violencia de género.",
+        "C": "La Ley orgánica 1/2004 de 28 de Diciembre de medidas de protección integral contra la violencia de género introduce por primera vez en nuestro país la perspectiva de género.",
+        "D": "El 26 de noviembre de 2007 se aprobó La Ley 13/2007 de medidas de prevención y protección integral contra la violencia de género en Andalucía.",
+        "E": "Como definición se considera violencia de género la que se ejerce sobre la mujer por el mero hecho de serlo."
+    },
+    "respuesta_correcta": "B"
+},
+"Temario comun_pregunta214": {
+    "pregunta": "Respecto a las siguientes definiciones referidas al concepto de género, señale la FALSA",
+    "opciones": {
+        "A": "La perspectiva de género es un análisis de la realidad que pone de manifiesto que la desigualdad entre hombres y mujeres no responde a situaciones naturales sino a una construcción social.",
+        "B": "El enfoque integrado de género es una metodología de intervención que introduce la perspectiva de género en todos los niveles y fases de programación.",
+        "C": "El impacto de género consiste en identificar y valorar los diferentes resultados y efectos de una norma o una política pública en hombres y mujeres.",
+        "D": "La transversalidad es un instrumento para integrar la perspectiva de género en las distintas políticas y acciones públicas ,desde la consideración sistemática de la igualdad de género",
+        "E": "El género es la condición orgánica, biológcamente identificable, que diferencia a los seres animados en machos y hembras."
+    },
+    "respuesta_correcta": "E"
+},
+"Temario comun_pregunta215": {
+    "pregunta": "Con respecto al ámbito de aplicación de la Ley 13/2007 de prevención y protección integral contra la violencia de género de Andalucía, todas las afirmaciones son correctas EXCEPTO",
+    "opciones": {
+        "A": "Tienen garantizados los derechos de esta Ley todas las mujeres que se encuentren en territorio andaluz.",
+        "B": "Esta Ley es de aplicación a la administración de la Junta de Andalucía.",
+        "C": "No será de aplicación a las entidades que integren la administración local.",
+        "D": "Será de aplicación a las actuaciones de los poderes públicos sujetos a las leyes de la Comunidad Autónoma de Andalucía.",
+        "E": "La presente Ley será de aplicación en todo el ámbito territorial de la Comunidad Autónoma de Andalucía."
+    },
+    "respuesta_correcta": "C"
+},
+"Temario comun_pregunta216": {
+    "pregunta": "Respecto al concepto de 'representación equilibrada' recogido en la Ley 12/2007 para la promoción de la igualdad de género en Andalucía, señale la respuesta INCORRECTA",
+    "opciones": {
+        "A": "Es aquella situación que garantice el 50% de presencia de hombres y mujeres.",
+        "B": "Su definición se recoge en el art 3.3 de la Ley 12/2007 para la promoción de la igualdad de género en Andalucía.",
+        "C": "El fomento de la participación o composición equilibrada de mujeres y hombres en los órganos de representación es un principio general de la Ley 12/2007.",
+        "D": "Las candidaturas a las elecciones al Parlamento de Andalucía deben cumplir con una composición equilibrada de mujeres y hombres.",
+        "E": "Es aquella situación que garantice que cada sexo ni supere el 60% ni sea menos del 40%."
+    },
+    "respuesta_correcta": "A"
+},
+"Temario comun_pregunta217": {
+    "pregunta": "Dentro de la Ley 55/2003, Estatuto Marco del Personal Estatutario de los Servicios de Salud, los criterios de clasificación del personal estatutario se encuentran:",
+    "opciones": {
+        "A": "Capítulo II, del artículo 17 al artículo 19.",
+        "B": "Capítulo III del artículo 5 al 9.",
+        "C": "Capítulo II, desde artículo 5 al 9.",
+        "D": "Capítulo III, del artículo 17 al artículo 19.",
+        "E": "Todas las anteriores son falsas."
+    },
+    "respuesta_correcta": "C"
+},
+"Temario comun_pregunta218": {
+    "pregunta": "La clasificación del personal estatutario que realiza el Estatuto Marco del personal sanitario (Ley 55/2003) se basa en:",
+    "opciones": {
+        "A": "Las funciones a desarrollar.",
+        "B": "La Carrera Profesional.",
+        "C": "El título obtenido tras su ingreso como estatutario.",
+        "D": "Su afiliación sindical.",
+        "E": "Todas las anteriores son verdaderas."
+    },
+    "respuesta_correcta": "A"
+},
+"Temario comun_pregunta219": {
+    "pregunta": "La clasificación del personal estatutario que realiza el Estatuto Marco del personal sanitario (Ley 55/2003) se basa en:",
+    "opciones": {
+        "A": "Titulación universitaria.",
+        "B": "Tipo de nombramiento.",
+        "C": "Titulación de formación profesional.",
+        "D": "Niveles de titulación exigidos para el ingreso.",
+        "E": "Las respuestas b y d son verdaderas."
+    },
+    "respuesta_correcta": "E"
+},
+"Temario comun_pregunta220": {
+    "pregunta": "El criterio de clasificación del personal estatutario basado en las funciones a desarrollar divide al personal de los servicios de salud en:",
+    "opciones": {
+        "A": "Personal estatutario sanitario y personal funcionario de gestión y servicios.",
+        "B": "Personal estatutario sanitario y personal estatutario de gestión y servicios.",
+        "C": "Personal sanitario universitario y personal de gestión diplomado.",
+        "D": "Personal sanitario técnico y personal de gestión licenciado.",
+        "E": "Solo pueden ser personal estatutario los que tengan titulación universitaria."
+    },
+    "respuesta_correcta": "B"
+},
+"Temario comun_pregunta221": {
+    "pregunta": "Según la Ley 55/2003 el personal estatutario sanitario es:",
+    "opciones": {
+        "A": "El que ostenta nombramiento expedido para el ejercicio de una profesión o especialidad sanitaria.",
+        "B": "El que ostenta nombramiento expedido para el desempeño de funciones de gestión o para el desarrollo de profesiones u oficios que no tengan carácter sanitario.",
+        "C": "El que determine el gerente del centro sanitario.",
+        "D": "El que determine el Director Gerente del SAS.",
+        "E": "Todas las anteriores son falsas."
+    },
+    "respuesta_correcta": "A"
+},
+"Temario comun_pregunta222": {
+    "pregunta": "Según la Ley 55/2003 el personal de gestión y servicios es:",
+    "opciones": {
+        "A": "El que ostenta nombramiento expedido para el ejercicio de una profesión o especialidad sanitaria.",
+        "B": "El que ostenta nombramiento expedido para el desempeño de funciones de gestión o para el desarrollo de profesiones u oficios que no tengan carácter sanitario.",
+        "C": "El que determine el Director Gerente del SAS.",
+        "D": "El que determine la titulación del trabajador.",
+        "E": "El que determine el gerente del centro sanitario."
+    },
+    "respuesta_correcta": "B"
+},
+"Temario comun_pregunta223": {
+    "pregunta": "El personal estatutario temporal se clasifica en:",
+    "opciones": {
+        "A": "Estatutario, laboral y funcionario.",
+        "B": "Sanitario y personal de gestión y servicios.",
+        "C": "Interino y sustituto.",
+        "D": "Sustituto y eventual.",
+        "E": "Interino, eventual y sustituto."
+    },
+    "respuesta_correcta": "E"
+},
+"Temario comun_pregunta224": {
+    "pregunta": "Según el tipo de nombramiento, el personal estatutario se clasifica en:",
+    "opciones": {
+        "A": "Fijo y eventual.",
+        "B": "Interino y eventual.",
+        "C": "Reingreso provisional y en expectativa de destino.",
+        "D": "Fijo y temporal.",
+        "E": "Interino y fijo."
+    },
+    "respuesta_correcta": "D"
+},
+"Temario comun_pregunta225": {
+    "pregunta": "Señale el requisito para ser personal estatutario fijo según la Ley 55/2003:",
+    "opciones": {
+        "A": "Obtiene un nombramiento para el desempeño de funciones de forma permanente.",
+        "B": "Obtiene un nombramiento para el desempeño de funciones de forma temporal.",
+        "C": "Supera de un proceso selectivo.",
+        "D": "Respuestas a y c son correctas.",
+        "E": "Previamente ha tenido que ser interino."
+    },
+    "respuesta_correcta": "D"
+},
+"Temario comun_pregunta226": {
+    "pregunta": "Señale la respuesta correcta respecto al personal temporal interino:",
+    "opciones": {
+        "A": "Su nombramiento se expedirá para el desempeño de una plaza eventual de los servicios de salud.",
+        "B": "Su cese se puede producir por la incorporación de personal fijo por el procedimiento legal o reglamentariamente establecido.",
+        "C": "Su plaza no puede ser amortizada.",
+        "D": "Puede participar en un proceso de traslados.",
+        "E": "Todas las anteriores son falsas."
+    },
+    "respuesta_correcta": "B"
+},
+"Temario comun_pregunta227": {
+    "pregunta": "Se expedirá un nombramiento temporal con carácter eventual:",
+    "opciones": {
+        "A": "Cuando se trate de la prestación de servicios determinados de naturaleza temporal.",
+        "B": "Cuando sea necesario para garantizar el funcionamiento permanente y continuado de los centros sanitarios.",
+        "C": "Para la prestación de servicios complementarios de una reducción de jornada ordinaria.",
+        "D": "Todas las anteriores son ciertas.",
+        "E": "Solo a y b son ciertas."
+    },
+    "respuesta_correcta": "D"
+},
+"Temario comun_pregunta228": {
+    "pregunta": "El nombramiento de personal estatutario temporal con carácter sustituto se expedirá cuando resulte necesario atender las funciones de personal fijo o temporal en los siguientes casos Excepto:",
+    "opciones": {
+        "A": "Vacaciones.",
+        "B": "Crédito horario sindical.",
+        "C": "Incapacidad temporal.",
+        "D": "Permiso maternal.",
+        "E": "Jubilación."
+    },
+    "respuesta_correcta": "E"
+},
+"Temario comun_pregunta229": {
+    "pregunta": "Los derechos y deberes vienen reflejados en la Ley 55/2003 en el Capítulo siguiente:",
+    "opciones": {
+        "A": "IV.",
+        "B": "V.",
+        "C": "VI.",
+        "D": "III.",
+        "E": "I."
+    },
+    "respuesta_correcta": "A"
+},
+"Temario comun_pregunta230": {
+    "pregunta": "Señale cuál de las siguientes respuestas no es un deber reflejado en la Ley 55/2003:",
+    "opciones": {
+        "A": "Ejercer la profesión o desarrollar el conjunto de las funciones que correspondan a su nombramiento.",
+        "B": "A la formación continuada adecuada y al reconocimiento de su cualificación profesional.",
+        "C": "Participar y colaborar eficazmente en la fijación y consecución de los objetivos cuantitativos y cualitativos.",
+        "D": "Cumplir el régimen de horarios y jornada, atendiendo a la cobertura de las jornadas complementarias.",
+        "E": "Respetar la dignidad e intimidad personal de los usuarios."
+    },
+    "respuesta_correcta": "B"
+},
+"Temario comun_pregunta231": {
+    "pregunta": "Señale cuál de las siguientes respuestas no es un derecho reflejado en la Ley 55/2003:",
+    "opciones": {
+        "A": "Al descanso necesario.",
+        "B": "A la movilidad voluntaria, promoción interna y desarrollo profesional.",
+        "C": "Mantener debidamente actualizados los conocimientos y aptitudes necesarios para el correcto ejercicio de la profesión o para el desarrollo de las funciones.",
+        "D": "A la percepción puntual de las retribuciones.",
+        "E": "A la estabilidad en el empleo."
+    },
+    "respuesta_correcta": "C"
+},
+"Temario comun_pregunta232": {
+    "pregunta": "¿Qué capítulo del Estatuto Marco incluye el tema de régimen disciplinario?",
+    "opciones": {
+        "A": "VII.",
+        "B": "IX.",
+        "C": "VIII.",
+        "D": "XI.",
+        "E": "IX."
+    },
+    "respuesta_correcta": "D"
+},
+"Temario comun_pregunta233": {
+    "pregunta": "Señale la falsa respecto a la potestad disciplinaria:",
+    "opciones": {
+        "A": "La ostenta el servicio de salud. Las sanciones que se impongan tendrán validez y eficacia en todos los servicios de salud.",
+        "B": "Le corresponde al servicio de salud donde tomó posesión por primera vez.",
+        "C": "Si en la instrucción de un expediente disciplinario aparecen indicios de criminalidad, se suspenderá y se dará traslado a la fiscalía.",
+        "D": "La ejercerá el órgano competente del servicio de salud."
+    },
+    "respuesta_correcta": "C"
+},
+"Temario comun_pregunta234": {
+    "pregunta": "Tendrá consideración de falta muy grave:",
+    "opciones": {
+        "A": "El abandono del servicio.",
+        "B": "La grave desconsideración con los superiores, compañeros, subordinados o usuarios.",
+        "C": "El abuso de autoridad en el ejercicio de sus funciones.",
+        "D": "La falta de obediencia debida a los superiores.",
+        "E": "El incumplimiento injustificado de la jornada de trabajo que, acumulado, suponga más de 20 horas al mes."
+    },
+    "respuesta_correcta": "A"
+},
+"Temario comun_pregunta235": {
+    "pregunta": "Tendrá consideración de falta grave:",
+    "opciones": {
+        "A": "La exigencia de cualquier tipo de compensación por los servicios prestados a los usuarios.",
+        "B": "La negativa expresa a hacer uso de los medios de protección disponibles y seguir las recomendaciones establecidas para la prevención de riesgos laborales.",
+        "C": "La inducción directa, a otro u otros, a la comisión de una falta muy grave.",
+        "D": "La utilización de los locales, instalaciones o equipamiento de las instituciones, centros o servicios de salud para la realización de actividades o funciones ajenas a dichos servicios.",
+        "E": "Los daños o el deterioro en las instalaciones, equipamiento, instrumental o documentación, cuando se produzcan por negligencia inexcusable."
+    },
+    "respuesta_correcta": "E"
+},
+"Temario comun_pregunta236": {
+    "pregunta": "La negociación colectiva del personal estatutario se articula a través de:",
+    "opciones": {
+        "A": "Comités de empresas.",
+        "B": "Comisiones paritarias.",
+        "C": "Mesas sectoriales.",
+        "D": "Comisiones de seguimiento.",
+        "E": "Mesas técnicas."
+    },
+    "respuesta_correcta": "C"
+},
+
+"Temario comun_pregunta237": {
+    "pregunta": "El Estatuto Marco define al personal estatutario como:",
+    "opciones": {
+        "A": "Personal funcionario.",
+        "B": "Personal laboral.",
+        "C": "Personal vinculado.",
+        "D": "Personal funcionario de carácter especial.",
+        "E": "Personal laboral de carácter especial."
+    },
+    "respuesta_correcta": "D"
+},
+"Temario comun_pregunta238": {
+    "pregunta": "La vía jurisdiccional competente para dirimir las controversias del personal estatutario es:",
+    "opciones": {
+        "A": "Social.",
+        "B": "Civil.",
+        "C": "Penal.",
+        "D": "Contencioso Administrativa.",
+        "E": "Económico Administrativa."
+    },
+    "respuesta_correcta": "D"
+},
+"Temario comun_pregunta239": {
+    "pregunta": "¿Cuál de los siguientes grupos de clasificación no es propio del personal estatutario sanitario?",
+    "opciones": {
+        "A": "Expertos Universitarios.",
+        "B": "Licenciados con título de especialista en Ciencias de la Salud.",
+        "C": "Licenciados sanitarios.",
+        "D": "Diplomados con título de especialista en Ciencias de la Salud.",
+        "E": "Diplomados sanitarios."
+    },
+    "respuesta_correcta": "A"
+},
+"Temario comun_pregunta240": {
+    "pregunta": "El personal temporal en función de su nombramiento se clasifica en:",
+    "opciones": {
+        "A": "Interino Vacante, Eventual y Sustituto.",
+        "B": "Temporal, Interino y Eventual.",
+        "C": "Interino, Eventual y Sustituto.",
+        "D": "Interino, Sustituto y Contratado estatutario.",
+        "E": "Interino Vacante, Contratado y Vinculado."
+    },
+    "respuesta_correcta": "C"
+},
+"Temario comun_pregunta241": {
+    "pregunta": "El Estatuto Marco fija la edad de jubilación de su personal a los:",
+    "opciones": {
+        "A": "70 años.",
+        "B": "La establecida como edad de jubilación ordinaria en el Régimen General de Seguridad Social.",
+        "C": "65 años para el personal fijo y 70 para el personal temporal.",
+        "D": "70 años para el personal fijo y 65 para el personal temporal.",
+        "E": "No fija edad alguna."
+    },
+    "respuesta_correcta": "B"
+},
+"Temario comun_pregunta242": {
+    "pregunta": "La movilidad voluntaria del personal estatutario fijo tiene como límite:",
+    "opciones": {
+        "A": "El Área de Salud.",
+        "B": "El Área Hospitalaria en la que tenga su plaza.",
+        "C": "El Área de Atención Primaria en la que tenga su plaza.",
+        "D": "El Servicio de Salud.",
+        "E": "El Sistema Nacional de Salud."
+    },
+    "respuesta_correcta": "E"
+},
+"Temario comun_pregunta243": {
+    "pregunta": "¿Cuál de las siguientes retribuciones no tiene la condición de básica?",
+    "opciones": {
+        "A": "Sueldo.",
+        "B": "Trienio.",
+        "C": "Paga Extraordinaria de junio.",
+        "D": "Paga Extraordinaria de diciembre.",
+        "E": "Sueldo base."
+    },
+    "respuesta_correcta": "E"
+},
+"Temario comun_pregunta244": {
+    "pregunta": "¿Cuál de las siguientes retribuciones no tiene la condición de complementaria?",
+    "opciones": {
+        "A": "Complemento de penosidad.",
+        "B": "Complemento específico.",
+        "C": "Complemento de carrera.",
+        "D": "Complemento de destino.",
+        "E": "Complemento de productividad."
+    },
+    "respuesta_correcta": "A"
+},
+"Temario comun_pregunta245": {
+    "pregunta": "La duración máxima de la jornada ordinaria y complementaria es:",
+    "opciones": {
+        "A": "40 horas semanales en cómputo semestral.",
+        "B": "40 horas semanales en cómputo semestral.",
+        "C": "37.5 horas semanales.",
+        "D": "35 horas semanales en cómputo semestral.",
+        "E": "48 horas semanales en cómputo semestral."
+    },
+    "respuesta_correcta": "E"
+},
+"Temario comun_pregunta246": {
+    "pregunta": "La negociación colectiva del personal estatutario se articula a través de:",
+    "opciones": {
+        "A": "Juntas de personal y delegados de personal.",
+        "B": "Mesas Sectoriales de negociación de cada uno de los Servicios de Salud.",
+        "C": "Sindicatos más representativos.",
+        "D": "Comités de empresa y delegados de personal.",
+        "E": "No se le reconoce el derecho a la negociación colectiva por su carácter de funcionario."
+    },
+    "respuesta_correcta": "B"
+},
+"Temario comun_pregunta247": {
+    "pregunta": "En el consentimiento informado, se entiende:",
+    "opciones": {
+        "A": "Es el facultativo quien determina el tratamiento a aplicar a un enfermo de forma unilateral.",
+        "B": "Es el propio usuario quien elige de entre las distintas alternativas que debe presentarle el facultativo.",
+        "C": "Se llega a un consenso entre usuario y facultativo.",
+        "D": "Todas son falsas."
+    },
+    "respuesta_correcta": "B"
+},
+"Temario comun_pregunta248": {
+    "pregunta": "Podemos definir el consentimiento informado como:",
+    "opciones": {
+        "A": "El que presta la familia.",
+        "B": "El que presta el usuario para llevar a cabo determinadas terapias.",
+        "C": "Ausencia de este consentimiento puede conllevar responsabilidad jurídica para el facultativo.",
+        "D": "B y C son ciertas."
+    },
+    "respuesta_correcta": "B"
+},
+"Temario comun_pregunta249": {
+    "pregunta": "La Ley de reproducción asistida establece, para la plena validez del consentimiento, una serie de requisitos adicionales: señale el falso:",
+    "opciones": {
+        "A": "Que la mujer sea mayor de edad y tenga plena capacidad de obrar.",
+        "B": "Que disfrute de buen estado de salud psicofísico.",
+        "C": "Que realice la correspondiente solicitud y que acepte de manera libre, consciente, expresa y por escrito.",
+        "D": "Es independiente del consentimiento del marido."
+    },
+    "respuesta_correcta": "D"
+},
+"Temario comun_pregunta250": {
+    "pregunta": "Es necesario el consentimiento informado para todo lo siguiente excepto:",
+    "opciones": {
+        "A": "Ensayos clínicos.",
+        "B": "Extracción y trasplante de órganos.",
+        "C": "Administración de sangre y componentes.",
+        "D": "Todas son ciertas."
+    },
+    "respuesta_correcta": "D"
+},
+"Temario comun_pregunta251": {
+    "pregunta": "El consentimiento informado en la normativa sanitaria para los ensayos clínicos con medicamentos viene recogido en:",
+    "opciones": {
+        "A": "Ley 30/1979, de 27 de octubre.",
+        "B": "Ley 25/1990, de 20 de noviembre.",
+        "C": "Ley 35/1988, de 22 de noviembre.",
+        "D": "Real Decreto 223/2004 de 6 de Febrero."
+    },
+    "respuesta_correcta": "D"
+},
+"Temario comun_pregunta252": {
+    "pregunta": "El consentimiento en la normativa sanitaria para administración de sangre y componentes viene recogido en:",
+    "opciones": {
+        "A": "Ley 30/1979, de 27 de octubre.",
+        "B": "Ley 25/1990, de 20 de noviembre.",
+        "C": "Ley 35/1988, de 22 de noviembre.",
+        "D": "Real Decreto 1854/1993, de 22 de octubre."
+    },
+    "respuesta_correcta": "D"
+},
+"Temario comun_pregunta253": {
+    "pregunta": "El consentimiento en la normativa sanitaria para los extracción y trasplante de órganos viene recogido en:",
+    "opciones": {
+        "A": "Ley 30/1979, de 27 de octubre.",
+        "B": "Ley 25/1990, de 20 de noviembre.",
+        "C": "Ley 35/1988, de 22 de noviembre.",
+        "D": "Real Decreto 1854/1993, de 22 de octubre."
+    },
+    "respuesta_correcta": "A"
+},
+"Temario comun_pregunta254": {
+    "pregunta": "En el ámbito del consentimiento informado ¿puede un paciente negarse a recibir un tratamiento?",
+    "opciones": {
+        "A": "SI.",
+        "B": "NO.",
+        "C": "Depende si lo ve oportuno el médico que informa sobre la intervención o actuación propuesta.",
+        "D": "SI, salvo en las situaciones excepcionales contempladas en la legislación vigente."
+    },
+    "respuesta_correcta": "D"
+},
+"Temario comun_pregunta255": {
+    "pregunta": "En el ámbito del consentimiento informado, ¿puede el facultativo imponer las indicaciones quirúrgicas o actuaciones terapéuticas sin consultar con el paciente o familia, siempre que no exista una situación excepcional contemplada por la ley?",
+    "opciones": {
+        "A": "La ausencia de este consentimiento puede conllevar responsabilidad jurídica para el facultativo.",
+        "B": "No puede hacerlo sin informar debidamente.",
+        "C": "Puede hacer lo que quiera.",
+        "D": "A y B son correctas."
+    },
+    "respuesta_correcta": "D"
+},
+"Temario comun_pregunta256": {
+    "pregunta": "La ley 41/2002 establece unos principios básicos en relación a la autonomía del paciente, ¿cuáles son?",
+    "opciones": {
+        "A": "El respeto a la dignidad humana, la autonomía y voluntad del paciente.",
+        "B": "Define al ciudadano como asegurado.",
+        "C": "Define la Cartera de Servicios del sistema nacional de Salud.",
+        "D": "Entre los deberes establece la obligación de los usuarios a cuidar las instalaciones."
+    },
+    "respuesta_correcta": "A"
+},
+"Temario comun_pregunta257": {
+    "pregunta": "En la ley 41/2002 se establecen los principios básicos que deben orientar la actividad de los profesionales, señala los correctos",
+    "opciones": {
+        "A": "Decidir lo que le hace falta al paciente y aplicarlo.",
+        "B": "Todo profesional que interviene en la actividad asistencial está obligado a la correcta prestación de sus técnicas, así como mantener el respeto a las decisiones adoptadas libre y voluntariamente por el paciente.",
+        "C": "No informar a los familiares, solo al paciente.",
+        "D": "Informar con terminología clínica, independientemente de el estado mental del paciente."
+    },
+    "respuesta_correcta": "B"
+},
+"Temario comun_pregunta258": {
+    "pregunta": "A efectos de la Ley 41/2002, ¿cómo se define legalmente 'médico responsable'?",
+    "opciones": {
+        "A": "Es el profesional responsable de sus decisiones.",
+        "B": "Es el profesional que se encarga de la parte asistencial del paciente/usuario exclusivamente.",
+        "C": "Es el profesional que tiene a su cargo coordinar la información y la asistencia sanitaria del paciente o del usuario, con el carácter de interlocutor principal del mismo en todo su proceso asistencial.",
+        "D": "Es el encargado de firmar el Informe de Alta."
+    },
+    "respuesta_correcta": "C"
+},
+"Temario comun_pregunta259": {
+    "pregunta": "En el ámbito de la ley 41/2002, ¿cuáles son los requisitos que establece para una correcta información sanitaria al paciente o usuario?",
+    "opciones": {
+        "A": "Se establece que la información clínica debe ser verdadera, comprensible, y adecuada a las necesidades del paciente a fin de que le ayude a tomar decisiones con su propia y libre voluntad.",
+        "B": "Se informará siempre a la familia.",
+        "C": "Dependiendo de la patología y en función de lo que establezca la familia, se podrá informar al paciente o no.",
+        "D": "Exclusivamente informará al paciente el médico responsable."
+    },
+    "respuesta_correcta": "A"
+},
+"Temario comun_pregunta260": {
+    "pregunta": "En el ámbito de la Ley 41/2002 se establecen una serie de excepciones del derecho a la información del paciente, señala la verdadera",
+    "opciones": {
+        "A": "No se informará al paciente si su enfermedad es muy grave o terminal.",
+        "B": "El derecho a la información sanitaria puede limitarse por la existencia acreditada de un estado de necesidad terapéutica.",
+        "C": "El paciente no necesita saber qué tratamiento y para qué se le administra.",
+        "D": "El médico siempre puede decidir, ante cualquier situación, que no debe informar al paciente o usuario y sí a la familia."
+    },
+    "respuesta_correcta": "B"
+},
+"Temario comun_pregunta261": {
+    "pregunta": "En el ámbito de la ley 41/2002, cuando habla de derecho a la intimidad, ¿a qué se refiere específicamente?",
+    "opciones": {
+        "A": "Que sus datos de salud no puedan ser conocidos por el 'médico responsable'.",
+        "B": "Que cada vez que se acceda a sus datos debe firmar un consentimiento.",
+        "C": "No se refiere a sus datos de salud, sino a otro tipo de datos íntimos.",
+        "D": "Que se respeten el carácter confidencial de sus datos de salud y que nadie acceda a ellos sin autorización."
+    },
+    "respuesta_correcta": "D"
+},
+"Temario comun_pregunta262": {
+    "pregunta": "En el ámbito de la ley 41/2002, ¿cómo se define la Historia Clínica?",
+    "opciones": {
+        "A": "Cualquier documento que tenga datos del paciente, ya es en sí mismo, la historia clínica del paciente.",
+        "B": "El conjunto de documentos relativos a los procesos asistenciales de cada paciente, con la identificación de los médicos y los demás profesionales que han intervenido en ellos.",
+        "C": "Al conjunto de las hojas de diagnóstico y tratamiento, incluyendo el alta clínica.",
+        "D": "Al conjunto de datos médicos exclusivamente."
+    },
+    "respuesta_correcta": "B"
+},
+"Temario comun_pregunta263": {
+    "pregunta": "En el ámbito de la ley 41/2002, ¿qué documentos se consideran parte de la Historia Clínica?",
+    "opciones": {
+        "A": "La anamnesis, la hoja de evolución, la hoja de constantes, y el Informe de Alta.",
+        "B": "El Consentimiento Informado, la hoja de quirófano, la de anestesista y la anatomía patológica.",
+        "C": "Las hojas de cuidados de enfermería y la aplicación terapéutica de enfermería.",
+        "D": "Todas son ciertas."
+    },
+    "respuesta_correcta": "D"
+},
+"Temario comun_pregunta264": {
+    "pregunta": "En el ámbito de la Ley 41/2002, ¿quién puede acceder a la Historia Clínica?",
+    "opciones": {
+        "A": "Los profesionales asistenciales del centro que realizan el diagnóstico o el tratamiento del paciente.",
+        "B": "Los jueces y las Fuerzas y Cuerpos de Seguridad del Estado, según rige lo dispuesto en la ley orgánica de protección de Datos.",
+        "C": "El propio paciente puede solicitar el acceso a su Historia Clínica.",
+        "D": "Todas son correctas."
+    },
+    "respuesta_correcta": "D"
+}
+
+}
+
